@@ -10,15 +10,13 @@
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan",
-    "disabled": true,
-    "old": true
+    "disabled": true
   },
   {
     "name": "AutoHook",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./AutoHook",
-    "old": true
+    "projectRoot": "./AutoHook"
   },
   {
     "name": "AutoRetainer",
@@ -27,29 +25,25 @@
     "projectRoot": "./AutoRetainer",
     "buildSystem": "msbuild",
     "configuration": "ReleaseForms",
-    "disabled": true,
-    "old": true
+    "disabled": true
   },
   {
     "name": "BDTHPlugin",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
-    "projectRoot": "./BDTHPlugin",
-    "old": true
+    "projectRoot": "./BDTHPlugin"
   },
   {
     "name": "Cammy",
     "version": "0.0.0.0",
-    "repo": "https://repo.caraxian.com",
-    "projectRoot": ".",
-    "old": true
+    "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+    "projectRoot": "."
   },
   {
     "name": "CustomizePlus",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
-    "projectRoot": "./CustomizePlus",
-    "old": true
+    "projectRoot": "./CustomizePlus"
   },
   {
     "name": "GatherbuddyReborn",
@@ -58,15 +52,13 @@
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy",
-    "disabled": true,
-    "old": true
+    "disabled": true
   },
   {
     "name": "Glamourer",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
-    "projectRoot": "./Glamourer",
-    "old": true
+    "projectRoot": "./Glamourer"
   },
   {
     "name": "HaselTweaks",
@@ -85,8 +77,7 @@
     "name": "LazyLoot",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./LazyLoot",
-    "old": true
+    "projectRoot": "./LazyLoot"
   },
   {
     "name": "Lifestream",
@@ -98,15 +89,13 @@
     "name": "MareSynchronos",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json",
-    "projectRoot": "./MareSynchronos",
-    "old": true
+    "projectRoot": "./MareSynchronos"
   },
   {
     "name": "Marketbuddy",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
-    "projectRoot": "./Marketbuddy",
-    "old": true
+    "projectRoot": "./Marketbuddy"
   },
   {
     "name": "NoClippy",
@@ -124,8 +113,7 @@
     "name": "Orbwalker",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Orbwalker",
-    "old": true
+    "projectRoot": "./Orbwalker"
   },
   {
     "name": "PandorasBox",
@@ -133,15 +121,13 @@
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox",
     "buildSystem": "msbuild",
-    "configuration": "ReleaseForms",
-    "old": true
+    "configuration": "ReleaseForms"
   },
   {
     "name": "Penumbra",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
-    "projectRoot": "./Penumbra",
-    "old": true
+    "projectRoot": "./Penumbra"
   },
   {
     "name": "ReAction",
@@ -153,36 +139,31 @@
     "name": "Saucy",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Saucy",
-    "old": true
+    "projectRoot": "./Saucy"
   },
   {
     "name": "SimpleHeels",
     "version": "0.0.0.0",
     "repo": "https://repo.caraxian.com",
-    "projectRoot": ".",
-    "old": true
+    "projectRoot": "."
   },
   {
     "name": "vnavmesh",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
-    "projectRoot": "./vnavmesh",
-    "old": true
+    "projectRoot": "./vnavmesh"
   },
   {
     "name": "XivVoices",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/FantasticalMouthpiece/XivVoices/main/repo.json",
-    "projectRoot": "./XivVoices",
-    "old": true
+    "projectRoot": "./XivVoices"
   },
   {
     "name": "YesAlready",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./YesAlready",
-    "old": true
+    "projectRoot": "./YesAlready"
   }
 ]
