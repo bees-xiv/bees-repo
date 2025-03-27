@@ -51,8 +51,7 @@
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
-    "csprojName": "GatherBuddy",
-    "disabled": true
+    "csprojName": "GatherBuddy"
   },
   {
     "name": "Glamourer",
