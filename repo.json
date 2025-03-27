@@ -169,6 +169,25 @@
     "LastUpdate": "1743025009"
   },
   {
+    "Author": "veyn, xan_0",
+    "Name": "vnavmesh [Bees]",
+    "Punchline": "Move around!",
+    "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+    "Tags": [],
+    "InternalName": "vnavmesh",
+    "RepoUrl": null,
+    "DownloadCount": 296602,
+    "LastUpdate": 1743028808273,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/vnavmesh.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/vnavmesh.zip",
+    "AssemblyVersion": "0.2.1.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "",
+    "TestingDalamudApiLevel": "12",
+    "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png"
+  },
+  {
     "Author": "daemitus, kawaii",
     "Name": "Yes Already [Bees]",
     "Punchline": "Clicks Yes in various dialogs you've specified.",
