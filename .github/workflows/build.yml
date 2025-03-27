@@ -37,7 +37,7 @@ jobs:
         run: |
           $output = node bees-build/build.js --check-only
           echo $output
-          $needsRebuilt = $output[-1]
+          $needsRebuilt = $output.Split([Environment]::NewLine) | Select-Object -Last 1
           echo "Rebuild needed: $needsRebuild"
           if ($needsRebuild -eq "false") {
             echo "skip_build=true" >> $env:GITHUB_ENV
