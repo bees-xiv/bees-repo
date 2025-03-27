@@ -1,7 +1,7 @@
 [
   {
     "name": "AntiAfkKick-Dalamud",
-    "version": "2.1.0.7",
+    "version": "2.1.0.8",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./AntiAfkKick-Dalamud"
   },
@@ -61,14 +61,14 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "34.0.0",
+    "version": "34.0.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
   },
   {
     "name": "Honorific",
-    "version": "1.5.1.2",
+    "version": "1.5.2.0",
     "repo": "d17",
     "projectRoot": "."
   },
@@ -80,7 +80,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.3.2.8",
+    "version": "2.5.0.1",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -98,7 +98,7 @@
   },
   {
     "name": "NoClippy",
-    "version": "0.5.0.17",
+    "version": "0.5.0.18",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -130,7 +130,7 @@
   },
   {
     "name": "ReAction",
-    "version": "1.3.4.0",
+    "version": "1.3.4.1",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
