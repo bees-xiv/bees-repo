@@ -35,7 +35,9 @@ jobs:
       - name: Check if rebuild is needed
         id: check
         run: |
-          $needsRebuild = node bees-build/build.js --check-only | Select-Object -Last 1
+          $output = node bees-build/build.js --check-only
+          echo $output
+          $needsRebuilt = $output | Select-Object -Last 1
           echo "Rebuild needed: $needsRebuild"
           if ($needsRebuild -eq "false") {
             echo "skip_build=true" >> $env:GITHUB_ENV
