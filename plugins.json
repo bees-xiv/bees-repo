@@ -41,7 +41,7 @@
   },
   {
     "name": "CustomizePlus",
-    "version": "0.0.0.0",
+    "version": "2.0.7.15",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
     "projectRoot": "./CustomizePlus"
   },
@@ -62,7 +62,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "34.0.1",
+    "version": "34.0.2",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
