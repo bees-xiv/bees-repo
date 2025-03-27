@@ -10,4 +10,5 @@
 - configuration?: configuration to build with, otherwise "Release"
 - noVersionFlags?: skips adding version flags to build
 - disabled?: to fuck the plugin
+- apiLevel?: when the fucking plugin authors are too retarded to put `DalamudApiLevel` into their repo
 ```
