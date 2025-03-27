@@ -157,7 +157,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "0.0.0.0",
+    "version": "0.3.4.0",
     "repo": "https://raw.githubusercontent.com/FantasticalMouthpiece/XivVoices/main/repo.json",
     "projectRoot": "./XivVoices"
   },
