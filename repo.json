@@ -167,5 +167,23 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ReAction.zip",
     "DownloadCount": 1263,
     "LastUpdate": "1743025009"
+  },
+  {
+    "Author": "daemitus, kawaii",
+    "Name": "Yes Already [Bees]",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+    "Tags": [],
+    "InternalName": "YesAlready",
+    "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+    "DownloadCount": 559789,
+    "LastUpdate": 1743086887012,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/YesAlready.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/YesAlready.zip",
+    "AssemblyVersion": "1.10.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
   }
 ]
