@@ -167,33 +167,28 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip"
   },
   {
-    "Author": "Caraxi",
-    "Name": "Honorific [Bees]",
-    "Punchline": "Customized titles for you and yours.",
-    "Description": "Assign custom titles to players.",
-    "Changelog": "Updated for API 12",
-    "TestingChangelog": "Trying something different\r\n\r\nPlease report:\r\n- **Any cases of nameplates flashing randomly**\r\n- Any cases of the wrong title appearing on players\r\n- Any cases of a custom title appearing on an NPC\r\n- Any cases of other UI behaving unexpectedly\r\n- Any cases of a title getting stuck on a custom title after the plugin is disabled\r\n\r\nWhen reporting any issues please use the `Honorific` channel in `plugin-help-forum` (<#1104305790975758336>)",
-    "Tags": null,
-    "CategoryTags": null,
-    "InternalName": "HonorificBees",
-    "AssemblyVersion": "1.5.2.0",
-    "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/Caraxi/Honorific",
+    "Author": "Taurenkey, Gidedin",
+    "Name": "LazyLoot [Bees]",
+    "Punchline": "Dungeon Loot but Lazy.",
+    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+    "Tags": [
+      "plugin",
+      "loot",
+      "utility",
+      "other"
+    ],
+    "InternalName": "LazyLoot",
+    "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+    "DownloadCount": 126589,
+    "LastUpdate": 1743145378663,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/LazyLoot.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/LazyLoot.zip",
+    "AssemblyVersion": "5.3.2.0",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "TestingDalamudApiLevel": 9,
-    "DownloadCount": 1364914,
-    "LastUpdate": 1743029549,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Honorific.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Honorific.zip",
-    "LoadPriority": 0,
-    "ImageUrls": null,
-    "IconUrl": null,
-    "AcceptsFeedback": true,
-    "FeedbackMessage": null,
-    "FeedbackWebhook": null,
-    "_isDip17Plugin": true,
-    "_Dip17Channel": "testing-live"
+    "DalamudApiLevel": "12",
+    "Changelog": "- Patch update.",
+    "TestingDalamudApiLevel": "9",
+    "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
   },
   {
     "Author": "NightmareXIV",
@@ -294,6 +289,28 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
   },
   {
+    "Author": "Taurenkey, croizat",
+    "Name": "Pandora's Box [Bees]",
+    "Punchline": "Do you dare to open Pandora's Box?",
+    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+    "Tags": [
+      "punish",
+      "plugin"
+    ],
+    "InternalName": "PandorasBox",
+    "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+    "DownloadCount": 579906,
+    "LastUpdate": 1743146567025,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/PandorasBox.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/PandorasBox.zip",
+    "AssemblyVersion": "1.6.3.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "- Patch update.",
+    "TestingDalamudApiLevel": "9",
+    "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+  },
+  {
     "Author": "UnknownX",
     "Name": "ReAction [Bees]",
     "Punchline": "QoL for the battle system.",
@@ -316,6 +333,29 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ReAction.zip",
     "DownloadCount": 1263,
     "LastUpdate": "1743025009"
+  },
+  {
+    "Author": "Taurenkey",
+    "Name": "Saucy [Bees]",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games.",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "InternalName": "Saucy",
+    "RepoUrl": "https://github.com/PunishXIV/Saucy",
+    "DownloadCount": 271774,
+    "LastUpdate": 1743147483957,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
+    "AssemblyVersion": "1.4.2.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "- Patch update",
+    "TestingDalamudApiLevel": "9",
+    "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
   },
   {
     "Author": "veyn, xan_0",
