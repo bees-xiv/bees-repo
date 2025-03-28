@@ -19,6 +19,25 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png"
   },
   {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "AutoRetainer [Bees]",
+    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Tags": [],
+    "InternalName": "AutoRetainer",
+    "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+    "DownloadCount": 1059206,
+    "LastUpdate": 1743025991904,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoRetainer.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoRetainer.zip",
+    "AssemblyVersion": "4.4.5.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "- 7.2 update",
+    "TestingDalamudApiLevel": "11",
+    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+  },
+  {
     "Author": "UnknownX",
     "Name": "Cammy [Bees]",
     "Punchline": "A simple editor for the game's camera settings",
