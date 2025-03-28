@@ -59,6 +59,13 @@
     "projectRoot": "./Glamourer"
   },
   {
+    "name": "HaselDebug",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
+    "projectRoot": "./HaselDebug",
+    "noVersionFlags": true
+  },
+  {
     "name": "HaselTweaks",
     "version": "34.0.2",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
