@@ -24,8 +24,7 @@
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer",
     "buildSystem": "msbuild",
-    "configuration": "ReleaseForms",
-    "disabled": true
+    "configuration": "ReleaseForms"
   },
   {
     "name": "BDTHPlugin",
