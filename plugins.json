@@ -9,11 +9,7 @@
     "name": "Artisan",
     "version": "4.0.3.2",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Artisan",
-    "submodules": {
-      "ECommons": "2d22a93ec22b7b38051c0079eec8af6399c029dd",
-      "OtterGui": "7214fa0b226272d14c113ff5877b81e0ca7e91a7"
-    }
+    "projectRoot": "./Artisan"
   },
   {
     "name": "AutoHook",
