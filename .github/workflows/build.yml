@@ -33,19 +33,28 @@ jobs:
         with:
           bun-version: latest
       - name: Check if rebuild is needed
-        run: bun bees-build/build.ts --check-only
+        run: |
+          bun bees-build/build.ts --check-only
+          if ($LASTEXITCODE -eq 1) {
+            echo "skip_build=true" >> $env:GITHUB_ENV
+          }
+          exit 0
       - name: Setup .NET
+        if: env.skip_build != 'true'
         uses: actions/setup-dotnet@v1
         with:
           dotnet-version: 9.0.x
       - name: Download Dalamud
+        if: env.skip_build != 'true'
         run: |
           # Invoke-WebRequest -Uri https://goatcorp.github.io/dalamud-distrib/stg/latest.zip -OutFile latest.zip
           Invoke-WebRequest -Uri https://goatcorp.github.io/dalamud-distrib/latest.zip -OutFile latest.zip
           Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev"
       - name: Run build script
+        if: env.skip_build != 'true'
         run: bun bees-build/build.ts
       - name: Commit changes to plugins.json and repo.json
+        if: env.skip_build != 'true'
         run: |
           git config user.name "Github Actions"
           git config user.email "actions@github.com"
@@ -53,6 +62,7 @@ jobs:
           git commit -m "Update plugins.json and repo.json"
           git push origin main
       - name: Clean up old releases and create new release
+        if: env.skip_build != 'true'
         run: |
           $oldReleases = gh release list --repo ${{ github.repository }} --json tagName --jq '.[].tagName'
 
