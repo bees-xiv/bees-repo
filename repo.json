@@ -313,9 +313,9 @@
   },
   {
     "Author": "darkarchon",
-    "Name": "Mare Synchronos [BEES]",
+    "Name": "Mare Synchronos [Bees]",
     "InternalName": "MareSynchronos",
-    "AssemblyVersion": "0.11.19",
+    "AssemblyVersion": "0.11.18",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Penumbra-Sync/client",

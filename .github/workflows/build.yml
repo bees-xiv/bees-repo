@@ -60,4 +60,4 @@ jobs:
             gh release delete $release --repo ${{ github.repository }} --yes
           }
 
-          gh release create "v$(date +'%Y.%m.%d.%H%M%S')" (Get-Item .\dist\*) --title "New Release" --notes "Automated release from GitHub Actions"
+          gh release create "v$(date +'%Y.%m.%d.%H%M%S')" (Get-Item .\bees-build-dist\*) --title "New Release" --notes "Automated release from GitHub Actions"
