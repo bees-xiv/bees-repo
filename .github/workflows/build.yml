@@ -34,6 +34,7 @@ jobs:
           bun-version: latest
       - name: Check if rebuild is needed
         id: check
+        continue-on-error: true
         run: |
           bun bees-build/build.ts --check-only
           if ($LASTEXITCODE -eq 0) {
