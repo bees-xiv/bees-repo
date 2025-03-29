@@ -459,7 +459,7 @@
     "Description": "Adjust the position of your character model",
     "Punchline": "Adjust the position of your character model",
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-    "AssemblyVersion": "0.10.6.1",
+    "AssemblyVersion": "0.10.6.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "IsTestingExclusive": "False",
