@@ -139,9 +139,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.2.25",
+    "AssemblyVersion": "7.2.2.26",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Fix swapped target and min collectability scores by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/310\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.24...7.2.2.25",
+    "Changelog": "Targeting release version of Dalamud 12\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.25...7.2.2.26",
     "DownloadCount": 69696969
   },
   {
@@ -199,7 +199,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks [Bees]",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "34.0.2",
+    "AssemblyVersion": "34.0.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -211,9 +211,9 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Patch 7.2 fixes for:\n\n- Enhanced Experience Bar - Max Level Override\n- Simple Aethernet List",
+    "Changelog": "Bigger Item Dyeing Preview\n\n- Fixed: Nodes were out of place and a button was hiding behind the preview.",
     "DownloadCount": 69696969,
-    "LastUpdate": 1743106180,
+    "LastUpdate": 1743210880,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip"
   },
@@ -289,6 +289,26 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Lifestream.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png"
+  },
+  {
+    "Author": "darkarchon",
+    "Name": "Mare Synchronos [Bees]",
+    "InternalName": "MareSynchronos",
+    "AssemblyVersion": "0.11.18",
+    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Penumbra-Sync/client",
+    "Tags": [
+      "customization"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/images/icon.png",
+    "Punchline": "Let others see you as you see yourself.",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/MareSynchronos.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/MareSynchronos.zip",
+    "DownloadCount": 69696969
   },
   {
     "Author": "Chalkos",
@@ -457,6 +477,22 @@
     "Changelog": "- Patch update",
     "TestingDalamudApiLevel": "9",
     "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+  },
+  {
+    "Author": "Caraxi",
+    "Name": "Simple Heels [Bees]",
+    "InternalName": "SimpleHeels",
+    "Description": "Adjust the position of your character model",
+    "Punchline": "Adjust the position of your character model",
+    "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+    "AssemblyVersion": "0.10.6.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "IsTestingExclusive": "False",
+    "DownloadCount": 69696969,
+    "LastUpdate": "1743207467",
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SimpleHeels.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SimpleHeels.zip"
   },
   {
     "Author": "veyn, xan_0",
