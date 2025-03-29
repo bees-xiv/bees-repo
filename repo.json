@@ -83,32 +83,6 @@
     "LastUpdate": "1743050060"
   },
   {
-    "Author": "Risa",
-    "Name": "Customize+ [Bees]",
-    "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
-    "Punchline": "Customize your character beyond FFXIV's limitations.",
-    "InternalName": "CustomizePlus",
-    "AssemblyVersion": "2.0.7.15",
-    "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "TestingDalamudApiLevel": 12,
-    "IsTestingExclusive": "False",
-    "DownloadCount": 69696969,
-    "LastUpdate": 0,
-    "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/CustomizePlus.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/CustomizePlus.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
-    "Tags": [
-      "Anamnesis",
-      "Customization",
-      "Appearance",
-      "Character",
-      "Risa"
-    ]
-  },
-  {
     "Author": "The Combat Reborn Team",
     "Name": "GatherBuddy Reborn [Bees]",
     "InternalName": "GatherbuddyReborn",
