@@ -9,8 +9,7 @@
     "name": "Artisan",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Artisan",
-    "disabled": true
+    "projectRoot": "./Artisan"
   },
   {
     "name": "AutoHook",
