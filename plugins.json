@@ -100,7 +100,7 @@
     "version": "0.2.3.4",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
-    "apiLevel": 12
+    "apiLevel": "12"
   },
   {
     "name": "NoClippy",

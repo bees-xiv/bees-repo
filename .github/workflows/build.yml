@@ -28,18 +28,15 @@ jobs:
           repository: bees-xiv/bees-build
           token: ${{ secrets.BEES_BUILD_PAT }}
           path: "bees-build"
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          node-version: "22"
+          bun-version: latest
       - name: Check if rebuild is needed
         id: check
         run: |
-          $output = node bees-build/build.js --check-only
-          echo $output
-          $needsRebuild = $output.Split([Environment]::NewLine) | Select-Object -Last 1
-          echo "Rebuild needed: $needsRebuild"
-          if ($needsRebuild -eq "false") {
+          bun bees-build/build.ts --check-only
+          if ($LASTEXITCODE -eq 0) {
             echo "skip_build=true" >> $env:GITHUB_ENV
           }
       - name: Setup .NET
@@ -55,7 +52,7 @@ jobs:
           Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev"
       - name: Run build script
         if: env.skip_build != 'true'
-        run: node bees-build/build.js
+        run: bun bees-build/build.ts
       - name: Commit changes to plugins.json and repo.json
         if: env.skip_build != 'true'
         run: |
