@@ -80,6 +80,25 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
   },
   {
+    "Name": "BlackBox [Bees]",
+    "InternalName": "BlackBox",
+    "Author": "bees-xiv",
+    "Punchline": "",
+    "Description": "",
+    "Tags": [],
+    "AssemblyVersion": "1.1.0.0",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "IsTestingExclusive": "False",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1737410950,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BlackBox.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BlackBox.zip",
+    "IconUrl": ""
+  },
+  {
     "Author": "LeonBlade",
     "Name": "Burning Down the House [Bees]",
     "Description": "Move around housing items with coordinates and allows you to place anywhere.",
