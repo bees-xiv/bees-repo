@@ -205,9 +205,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.2.28",
+    "AssemblyVersion": "7.2.2.29",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* YesAlready opposite problem that AR/ME was having fixed by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/315\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.27...7.2.2.28",
+    "Changelog": "## What's Changed\r\n* Movement Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/316\r\n* Repair properties and initialization by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/317\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.28...7.2.2.29",
     "DownloadCount": 69696969
   },
   {
