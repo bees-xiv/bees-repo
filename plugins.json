@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.3.4",
+    "version": "4.0.3.5",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.4.5.3",
+    "version": "4.4.5.5",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer",
     "buildSystem": "msbuild",
@@ -33,7 +33,7 @@
   },
   {
     "name": "BlackBox",
-    "version": "0.0.0.0",
+    "version": "1.2.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
@@ -91,7 +91,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.0.1",
+    "version": "2.5.0.2",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -128,7 +128,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.1",
+    "version": "1.6.3.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox",
     "buildSystem": "msbuild",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.3.6.4",
+    "version": "1.3.6.5",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
