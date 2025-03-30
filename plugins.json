@@ -33,7 +33,7 @@
   },
   {
     "name": "BlackBox",
-    "version": "1.2.0.0",
+    "version": "0.0.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
