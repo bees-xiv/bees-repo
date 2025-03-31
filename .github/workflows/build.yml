@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: "hourly-workflow"
+  group: "build"
   cancel-in-progress: true
 
 env:
@@ -17,8 +17,8 @@ env:
   skip_build:
 
 jobs:
-  run-windows:
-    runs-on: windows-latest
+  run-ubuntu:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -35,9 +35,9 @@ jobs:
       - name: Check if rebuild is needed
         run: |
           bun bees-build/build.ts --check-only
-          if ($LASTEXITCODE -eq 1) {
-            echo "skip_build=true" >> $env:GITHUB_ENV
-          }
+          if [ $? -eq 1 ]; then
+            echo "skip_build=true" >> $GITHUB_ENV
+          fi
           exit 0
       - name: Setup .NET
         if: env.skip_build != 'true'
@@ -47,9 +47,9 @@ jobs:
       - name: Download Dalamud
         if: env.skip_build != 'true'
         run: |
-          # Invoke-WebRequest -Uri https://goatcorp.github.io/dalamud-distrib/stg/latest.zip -OutFile latest.zip
-          Invoke-WebRequest -Uri https://goatcorp.github.io/dalamud-distrib/latest.zip -OutFile latest.zip
-          Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev"
+          curl -o latest.zip https://goatcorp.github.io/dalamud-distrib/latest.zip
+          mkdir -p ~/.xlcore/dalamud/Hooks/dev/
+          unzip latest.zip -d ~/.xlcore/dalamud/Hooks/dev/
       - name: Run build script
         if: env.skip_build != 'true'
         run: bun bees-build/build.ts
@@ -64,10 +64,12 @@ jobs:
       - name: Clean up old releases and create new release
         if: env.skip_build != 'true'
         run: |
-          $oldReleases = gh release list --repo ${{ github.repository }} --json tagName --jq '.[].tagName'
+          oldReleases=$(gh release list --repo ${{ github.repository }} --json tagName --jq '.[].tagName')
 
-          foreach ($release in $oldReleases) {
-            gh release delete $release --repo ${{ github.repository }} --yes
-          }
+          for release in $oldReleases; do
+            gh release delete "$release" --repo ${{ github.repository }} --yes
+          done
 
-          gh release create "v$(date +'%Y.%m.%d.%H%M%S')" (Get-Item .\bees-build-dist\*) --title "New Release" --notes "Automated release from GitHub Actions"
+          gh release create "v$(date +'%Y.%m.%d.%H%M%S')" bees-build-dist/* \
+            --title "bees-relees" \
+            --notes ""
