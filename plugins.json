@@ -109,6 +109,12 @@
     "apiLevel": "12"
   },
   {
+    "name": "MemShield",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/Exter-N/MemShield/dalamondieu/repo.json",
+    "projectRoot": "./MemShield"
+  },
+  {
     "name": "NoClippy",
     "version": "0.5.0.18",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
@@ -157,6 +163,12 @@
     "version": "0.10.6.2",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
+  },
+  {
+    "name": "Squadronista",
+    "version": "0.0.0.0",
+    "repo": "https://plugins.carvel.li",
+    "projectRoot": "./Squadronista"
   },
   {
     "name": "vnavmesh",
