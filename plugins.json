@@ -172,7 +172,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "0.2.2.0",
+    "version": "0.2.2.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
