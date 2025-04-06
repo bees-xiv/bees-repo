@@ -393,6 +393,30 @@
     "Changelog": "- update for 7.2 (thanks Limiana)"
   },
   {
+    "Author": "Ny",
+    "Name": "Memory Shield [Bees]",
+    "Punchline": "Protection against some memory bugs.",
+    "Description": "Protection against some memory bugs.",
+    "Tags": [
+      "memory"
+    ],
+    "InternalName": "MemShield",
+    "AssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/Exter-N/MemShield",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "IsTestingExclusive": "False",
+    "DownloadCount": 69696969,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/MemShield.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/MemShield.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Exter-N/MemShield/main/MemShield/MemShield128.png",
+    "LoadPriority": 99999,
+    "LoadRequiredState": 2,
+    "LoadSync": true
+  },
+  {
     "Author": "UnknownX",
     "Name": "NoClippy [Bees]",
     "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
@@ -559,6 +583,29 @@
     "LastUpdate": "1743207467",
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SimpleHeels.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SimpleHeels.zip"
+  },
+  {
+    "Author": "Liza Carvelli",
+    "Name": "Squadronista [Bees]",
+    "InternalName": "Squadronista",
+    "AssemblyVersion": "6.0",
+    "Description": "",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.carvel.li/liza/Squadronista",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://plugins.carvel.li/icons/Squadronista.png",
+    "Punchline": "Simplified Squadron Calculator, heavily inspired by https://ffxivsquadron.com/",
+    "AcceptsFeedback": false,
+    "DalamudApiLevel": 12,
+    "DownloadCount": 69696969,
+    "LastUpdate": 1743283234,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Squadronista.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Squadronista.zip",
+    "Changelog": "v6.0 (2025-03-29)\n- API 12\n\nv5.0 (2024-12-06)\n- API 11\n\nv4.0 (2024-07-07)\n- API 10\n- Update logic with regards to current mission attributes to hopefully solve some calculation issues\n\nv3.0 (2024-03-23)\n- NET 8\n\nv2.0 (2024-03-02)\n- Use GcArmyManager instead of addon/atk parsing",
+    "IsTestingExclusive": false
   },
   {
     "Author": "veyn, xan_0",
