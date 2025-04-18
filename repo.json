@@ -469,13 +469,13 @@
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
     "DownloadCount": 69696969,
-    "LastUpdate": 1743101891226,
+    "LastUpdate": 1744951207517,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Orbwalker.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Orbwalker.zip",
-    "AssemblyVersion": "1.0.1.2",
+    "AssemblyVersion": "1.0.1.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
-    "Changelog": "- 7.2 update",
+    "Changelog": "- Fix mount locking issue",
     "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
   },
   {
