@@ -45,13 +45,13 @@
   },
   {
     "name": "CustomizePlus",
-    "version": "2.0.7.19",
+    "version": "2.0.7.20",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
     "projectRoot": "./CustomizePlus"
   },
   {
     "name": "GatherbuddyReborn",
-    "version": "7.2.2.52",
+    "version": "7.2.2.53",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
