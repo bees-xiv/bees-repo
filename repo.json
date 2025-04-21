@@ -205,9 +205,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.2.53",
+    "AssemblyVersion": "7.2.2.54",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* More fish records stuff by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/361\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.52...7.2.2.53",
+    "Changelog": "## What's Changed\r\n* Fix targeting logic and update ECommons by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/364\r\n* Fix enabled state synchronization for auto-gather items. by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/365\r\n* Remove unused migrations and resources by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/366\r\n* Adjust node targeting distance to 50 units by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/367\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.53...7.2.2.54",
     "DownloadCount": 69696969
   },
   {
