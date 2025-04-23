@@ -65,14 +65,14 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.21.0",
+    "version": "1.22.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
   },
   {
     "name": "HaselTweaks",
-    "version": "34.0.6",
+    "version": "34.1.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
