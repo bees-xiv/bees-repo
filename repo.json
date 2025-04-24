@@ -29,14 +29,14 @@
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "DownloadCount": 69696969,
-    "LastUpdate": 1744873442809,
+    "LastUpdate": 1745519607226,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Artisan.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Artisan.zip",
-    "AssemblyVersion": "4.0.3.10",
+    "AssemblyVersion": "4.0.3.13",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "Changelog": "",
-    "TestingDalamudApiLevel": "10",
+    "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
   },
   {
