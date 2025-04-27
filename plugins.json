@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.3.16",
+    "version": "4.0.3.21",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -72,7 +72,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "34.1.0",
+    "version": "34.1.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
