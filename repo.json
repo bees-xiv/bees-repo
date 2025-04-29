@@ -129,9 +129,9 @@
     "Name": "Cammy [Bees]",
     "Punchline": "A simple editor for the game's camera settings",
     "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-    "Changelog": "Fixed emotes being canceled during free cam (Thanks to Caraxi)",
+    "Changelog": "Fixed descend keybinding in free cam (Thanks to MBadea21)",
     "InternalName": "Cammy",
-    "AssemblyVersion": "2.1.0.11",
+    "AssemblyVersion": "2.1.0.12",
     "RepoUrl": "https://github.com/UnknownX7/Cammy",
     "ApplicableVersion": "any",
     "CategoryTags": [
@@ -146,7 +146,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Cammy.zip",
     "DownloadCount": 69696969,
-    "LastUpdate": "1743050060"
+    "LastUpdate": "1745885672"
   },
   {
     "Author": "Risa",
@@ -205,9 +205,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.2.55",
+    "AssemblyVersion": "7.2.2.56",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Load error fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/369\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.54...7.2.2.55",
+    "Changelog": "## What's Changed\r\n* Allow mounting up while moving by @garypwn in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/371\r\n* Upstream merge by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/372\r\n* Upstream sync 2 by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/374\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.55...7.2.2.56",
     "DownloadCount": 69696969
   },
   {
