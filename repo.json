@@ -461,6 +461,37 @@
     "IconUrl": ""
   },
   {
+    "Author": "Tischel",
+    "Name": "NOTED [Bees]",
+    "Punchline": "Duty-specific notes!",
+    "Description": "Lets you create notes that are linked to specific duties (they will only show during those duties).\nYou can also tie notes to certain jobs so they only appear when on the right job.",
+    "Changelog": "Adopted from Midori, updated to 7.2\r\n![Discord_a7YbUpwETE](https://github.com/user-attachments/assets/77180803-1086-4d76-99cd-770117b97e8e)",
+    "TestingChangelog": null,
+    "Tags": [
+      "UI"
+    ],
+    "CategoryTags": null,
+    "InternalName": "NOTEDBees",
+    "AssemblyVersion": "1.5.0.0",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/Tischel/NOTED",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 0,
+    "DownloadCount": 69696969,
+    "LastUpdate": 1743031206,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NOTED.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NOTED.zip",
+    "LoadPriority": 0,
+    "ImageUrls": null,
+    "IconUrl": null,
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable"
+  },
+  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Orbwalker [Bees]",
     "Punchline": "S P A C E G L I D I N G",
