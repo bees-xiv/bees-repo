@@ -10,8 +10,8 @@ const fs = require("fs");
   const plugins = JSON.parse(fs.readFileSync(pluginsJsonPath));
   for (let i = 0; i < plugins.length; i++) {
     const plugin = plugins[i];
-    if (plugin.repo === "bees-build" || plugin.repo === "d17") continue; // Can't be bothered validating these
-    const response = await fetch(plugin.repo, { headers: { Accept: "application/json" } });
+    if (plugin.repo === "bees-build") continue; // Can't be bothered validating these
+    const response = await fetch(plugin.repo === "d17" ? "https://kamori.goats.dev/Plugin/PluginMaster" : plugin.repo, { headers: { Accept: "application/json" } });
     const data = await response.json();
     let found = false;
     let gitRepo = "";

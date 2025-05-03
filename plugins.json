@@ -127,6 +127,12 @@
     "projectRoot": "."
   },
   {
+    "name": "NOTED",
+    "version": "0.0.0.0",
+    "repo": "d17",
+    "projectRoot": "NOTED"
+  },
+  {
     "name": "Orbwalker",
     "version": "1.0.1.3",
     "repo": "https://puni.sh/api/plugins",
