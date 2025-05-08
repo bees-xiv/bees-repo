@@ -184,6 +184,12 @@
     "projectRoot": "./vnavmesh"
   },
   {
+    "name": "Visibility",
+    "version": "0.0.0.0",
+    "repo": "d17",
+    "projectRoot": "./Visibility"
+  },
+  {
     "name": "XivVoices",
     "version": "0.3.4.1",
     "repo": "https://raw.githubusercontent.com/FantasticalMouthpiece/XivVoices/main/repo.json",
