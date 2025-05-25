@@ -724,13 +724,14 @@
     "InternalName": "YesAlready",
     "RepoUrl": "https://github.com/PunishXIV/YesAlready",
     "DownloadCount": 69696969,
-    "LastUpdate": 1744099978999,
+    "LastUpdate": 1748139744575,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/YesAlready.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/YesAlready.zip",
-    "AssemblyVersion": "1.10.1",
+    "AssemblyVersion": "1.10.5.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "Changelog": "",
+    "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
   }
 ]
