@@ -59,7 +59,7 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.3.8.6",
+    "version": "1.4.0.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer"
   },
@@ -91,7 +91,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.0.12",
+    "version": "2.5.0.13",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -148,7 +148,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.3.6.8",
+    "version": "1.4.0.0",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
@@ -197,7 +197,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.10.6",
+    "version": "1.10.7",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   }
