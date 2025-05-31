@@ -197,7 +197,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.10.8",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   }
