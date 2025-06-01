@@ -140,7 +140,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.3",
+    "version": "1.6.3.5",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox",
     "buildSystem": "msbuild",
@@ -191,7 +191,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "0.3.5.0",
+    "version": "0.3.5.1",
     "repo": "https://raw.githubusercontent.com/FantasticalMouthpiece/XivVoices/main/repo.json",
     "projectRoot": "./XivVoices"
   },
