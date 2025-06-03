@@ -91,7 +91,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.0.14",
+    "version": "2.5.0.15",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -140,7 +140,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.5",
+    "version": "1.6.3.7",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox",
     "buildSystem": "msbuild",
