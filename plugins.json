@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.3.42",
+    "version": "4.0.3.43",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -59,7 +59,7 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.4.0.1",
+    "version": "1.4.0.2",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer"
   },

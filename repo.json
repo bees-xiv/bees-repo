@@ -19,7 +19,7 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png"
   },
   {
-    "Author": "Taurenkey, kawaii",
+    "Author": "Taurenkey, kawaii, 2e",
     "Name": "Artisan [Bees]",
     "Punchline": "A 'simple' crafting plugin.",
     "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
@@ -29,10 +29,10 @@
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "DownloadCount": 69696969,
-    "LastUpdate": 1747156641794,
+    "LastUpdate": 1749828282064,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Artisan.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Artisan.zip",
-    "AssemblyVersion": "4.0.3.42",
+    "AssemblyVersion": "4.0.3.43",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "Changelog": "",
@@ -228,7 +228,7 @@
       "Character"
     ],
     "InternalName": "Glamourer",
-    "AssemblyVersion": "1.4.0.1",
+    "AssemblyVersion": "1.4.0.2",
     "RepoUrl": "https://github.com/Ottermandias/Glamourer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
