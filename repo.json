@@ -713,7 +713,7 @@
     "LoadSync": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Final-Fantasy-XIV-Voices/XivVoices/main/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/Final-Fantasy-XIV-Voices/XivVoices/main/data/logo.png"
   },
   {
     "Author": "daemitus, kawaii",
