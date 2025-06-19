@@ -91,7 +91,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.1.3",
+    "version": "2.5.1.4",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -191,7 +191,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "0.0.0.5",
+    "version": "0.0.0.6",
     "repo": "https://raw.githubusercontent.com/Final-Fantasy-XIV-Voices/XivVoices/main/repo.json",
     "projectRoot": "."
   },
