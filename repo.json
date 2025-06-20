@@ -701,7 +701,7 @@
     "Name": "XivVoices [Bees]",
     "Description": "Turning every dialogue into a voiced dialogue!",
     "InternalName": "XivVoices",
-    "AssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.7",
     "RepoUrl": "https://github.com/Final-Fantasy-XIV-Voices/XivVoices",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
