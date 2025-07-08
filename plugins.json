@@ -140,7 +140,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.11",
+    "version": "1.6.3.13",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox",
     "buildSystem": "msbuild",
