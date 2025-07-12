@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.1.1",
+    "version": "4.5.1.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer",
     "buildSystem": "msbuild",
@@ -65,7 +65,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.28.1",
+    "version": "1.29.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
