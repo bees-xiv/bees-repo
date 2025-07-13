@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.1.5",
+    "version": "4.5.1.6",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer",
     "buildSystem": "msbuild",
