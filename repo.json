@@ -687,13 +687,14 @@
     "InternalName": "vnavmesh",
     "RepoUrl": null,
     "DownloadCount": 69696969,
-    "LastUpdate": 1752341941442,
+    "LastUpdate": 1754235256683,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/vnavmesh.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/vnavmesh.zip",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.4.0.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "Changelog": "",
+    "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png"
   },
   {
