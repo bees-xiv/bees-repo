@@ -89,7 +89,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.1.15",
+    "version": "2.5.2.2",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -120,7 +120,7 @@
   },
   {
     "name": "NoComms",
-    "version": "1.1.0.1",
+    "version": "1.2.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
