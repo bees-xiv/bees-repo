@@ -7,6 +7,11 @@ on:
   #   branches:
   #     - main
   workflow_dispatch:
+    inputs:
+      rebuild_all:
+        description: "Rebuild all plugins"
+        required: false
+        default: "false"
 
 concurrency:
   group: "build"
@@ -47,13 +52,17 @@ jobs:
       - name: Download Dalamud
         if: env.skip_build != 'true'
         run: |
-          curl -o latest.zip https://goatcorp.github.io/dalamud-distrib/latest.zip
+          curl -o latest.zip https://goatcorp.github.io/dalamud-distrib/stg/latest.zip
           mkdir -p ~/.xlcore/dalamud/Hooks/dev/
           unzip latest.zip -d ~/.xlcore/dalamud/Hooks/dev/
       - name: Run build script
         if: env.skip_build != 'true'
         run: |
-          bun bees-build/build.ts || exit_code=$?
+          rebuild_arg=""
+          if [[ "${{ github.event.inputs.rebuild_all }}" == "true" ]]; then
+            rebuild_arg="--rebuild-all"
+          fi
+          bun bees-build/build.ts $rebuild_arg || exit_code=$?
           if [ "$exit_code" -eq 1 ]; then
             echo "skip_build=true" >> $GITHUB_ENV
           fi
