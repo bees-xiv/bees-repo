@@ -39,7 +39,11 @@ jobs:
           bun-version: latest
       - name: Check if rebuild is needed
         run: |
-          bun bees-build/build.ts --check-only || exit_code=$?
+          rebuild_arg=""
+          if [[ "${{ github.event.inputs.rebuild_all }}" == "true" ]]; then
+            rebuild_arg="--rebuild-all"
+          fi
+          bun bees-build/build.ts --check-only $rebuild_arg || exit_code=$?
           if [ "$exit_code" -eq 1 ]; then
             echo "skip_build=true" >> $GITHUB_ENV
           fi
