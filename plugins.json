@@ -1,7 +1,7 @@
 [
   {
     "name": "AntiAfkKick-Dalamud",
-    "version": "2.1.0.8",
+    "version": "2.1.0.9",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./AntiAfkKick-Dalamud"
   },
