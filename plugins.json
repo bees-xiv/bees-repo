@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.3.46",
+    "version": "4.0.3.51",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -31,7 +31,7 @@
   },
   {
     "name": "BlackBox",
-    "version": "1.2.0.0",
+    "version": "1.3.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
@@ -49,7 +49,7 @@
   },
   {
     "name": "GatherbuddyReborn",
-    "version": "7.2.5.3",
+    "version": "7.3.0.0",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
@@ -63,21 +63,21 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.29.1",
+    "version": "1.30.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
   },
   {
     "name": "HaselTweaks",
-    "version": "36.0.2",
+    "version": "36.1.3",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
   },
   {
     "name": "Honorific",
-    "version": "1.6.0.0",
+    "version": "1.6.0.1",
     "repo": "d17",
     "projectRoot": "."
   },
@@ -89,7 +89,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.2.2",
+    "version": "2.5.2.4",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream",
     "submodules": {
@@ -101,26 +101,26 @@
   },
   {
     "name": "MareSynchronos",
-    "version": "0.11.21",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json",
     "projectRoot": "./MareSynchronos"
   },
   {
     "name": "Marketbuddy",
-    "version": "0.2.3.4",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "12"
   },
   {
     "name": "MemShield",
-    "version": "0.1.0.0",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Exter-N/MemShield/dalamondieu/repo.json",
     "projectRoot": "./MemShield"
   },
   {
     "name": "NoClippy",
-    "version": "0.5.0.18",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -132,74 +132,74 @@
   },
   {
     "name": "NOTED",
-    "version": "1.5.0.0",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "NOTED"
   },
   {
     "name": "Orbwalker",
-    "version": "1.0.1.3",
+    "version": "1.0.1.4",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Orbwalker"
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.13",
+    "version": "1.6.3.14",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
   {
     "name": "Penumbra",
-    "version": "1.4.0.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
   {
     "name": "ReAction",
-    "version": "1.3.4.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
   {
     "name": "Saucy",
-    "version": "1.4.2.2",
+    "version": "1.4.2.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
   {
     "name": "SimpleHeels",
-    "version": "0.10.7.3",
+    "version": "0.10.7.5",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
   {
     "name": "Squadronista",
-    "version": "6.1",
+    "version": "0.0.0.0",
     "repo": "https://plugins.carvel.li",
     "projectRoot": "./Squadronista"
   },
   {
     "name": "vnavmesh",
-    "version": "0.4.0.2",
+    "version": "0.4.1.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
   },
   {
     "name": "Visibility",
-    "version": "1.1.8.3",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
   {
     "name": "XivVoices",
-    "version": "0.0.0.11",
+    "version": "0.0.0.12",
     "repo": "https://raw.githubusercontent.com/Final-Fantasy-XIV-Voices/XivVoices/main/repo.json",
     "projectRoot": "."
   },
   {
     "name": "YesAlready",
-    "version": "1.10.10",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   }
