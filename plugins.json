@@ -48,6 +48,12 @@
     "projectRoot": "./CustomizePlus"
   },
   {
+    "name": "DisPlacePlugin",
+    "version": "",
+    "repo": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
+    "projectRoot": "./DisPlacePlugin"
+  },
+  {
     "name": "GatherbuddyReborn",
     "version": "7.3.0.0",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
