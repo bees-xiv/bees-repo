@@ -91,7 +91,13 @@
     "name": "Lifestream",
     "version": "2.5.2.2",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-    "projectRoot": "./Lifestream"
+    "projectRoot": "./Lifestream",
+    "submodules": {
+      "OtterGui": {
+        "url": "https://github.com/Limiana/OtterGui",
+        "commit": "9523b7ac725656b21fa98faef96962652e86e64f"
+      }
+    }
   },
   {
     "name": "MareSynchronos",

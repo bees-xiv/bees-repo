@@ -44,7 +44,7 @@ jobs:
             rebuild_arg="--rebuild-all"
           fi
           bun bees-build/build.ts --check-only $rebuild_arg || exit_code=$?
-          if [ "$exit_code" -eq 1 ]; then
+          if [ "$exit_code" -eq 69 ]; then
             echo "skip_build=true" >> $GITHUB_ENV
           fi
           exit 0
@@ -67,7 +67,7 @@ jobs:
             rebuild_arg="--rebuild-all"
           fi
           bun bees-build/build.ts $rebuild_arg || exit_code=$?
-          if [ "$exit_code" -eq 1 ]; then
+          if [ "$exit_code" -eq 69 ]; then
             echo "skip_build=true" >> $GITHUB_ENV
           fi
           exit 0
