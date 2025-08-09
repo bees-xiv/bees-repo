@@ -116,7 +116,7 @@
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
-    "apiLevel": "12"
+    "apiLevel": "13"
   },
   {
     "name": "MemShield",
