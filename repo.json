@@ -69,13 +69,13 @@
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "DownloadCount": 69696969,
-    "LastUpdate": 1754501643065,
+    "LastUpdate": 1754626764450,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoRetainer.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoRetainer.zip",
-    "AssemblyVersion": "4.5.1.14",
+    "AssemblyVersion": "4.5.1.16",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "13",
-    "Changelog": "- Hotfix: correctly detect FC chest gil",
+    "Changelog": "- Continuation of 7.3 fixes\n- Fixed an issue present when making inventory cleanup plan a default plan",
     "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
   },
@@ -417,30 +417,6 @@
     "DownloadCount": 69696969,
     "LastUpdated": "1754532873",
     "Changelog": "* update for api13 (thanks PhoenixtheII)\n* persist option to open current prices list when holding SHIFT (thanks PhoenixtheII)"
-  },
-  {
-    "Author": "Ny",
-    "Name": "Memory Shield [Bees]",
-    "Punchline": "Protection against some memory bugs.",
-    "Description": "Protection against some memory bugs.",
-    "Tags": [
-      "memory"
-    ],
-    "InternalName": "MemShield",
-    "AssemblyVersion": "0.1.0.0",
-    "RepoUrl": "https://github.com/Exter-N/MemShield",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "TestingDalamudApiLevel": 12,
-    "IsTestingExclusive": "False",
-    "DownloadCount": 69696969,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/MemShield.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/MemShield.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Exter-N/MemShield/main/MemShield/MemShield128.png",
-    "LoadPriority": 99999,
-    "LoadRequiredState": 2,
-    "LoadSync": true
   },
   {
     "Author": "UnknownX",
