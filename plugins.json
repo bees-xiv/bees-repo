@@ -63,7 +63,7 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.5.0.0",
+    "version": "1.5.0.1",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer"
   },
@@ -150,7 +150,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.5.0.0",
+    "version": "1.5.0.1",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
