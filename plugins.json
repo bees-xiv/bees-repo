@@ -113,7 +113,7 @@
   },
   {
     "name": "Marketbuddy",
-    "version": "0.0.0.0",
+    "version": "0.2.4.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "13"
@@ -126,7 +126,7 @@
   },
   {
     "name": "NoClippy",
-    "version": "0.0.0.0",
+    "version": "0.5.0.19",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -162,7 +162,7 @@
   },
   {
     "name": "ReAction",
-    "version": "0.0.0.0",
+    "version": "1.3.4.2",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },

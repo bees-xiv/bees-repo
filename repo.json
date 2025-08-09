@@ -408,15 +408,15 @@
     "Punchline": "Less clicks, more gil!",
     "Description": "Helper for your day-to-day market operations.",
     "InternalName": "Marketbuddy",
-    "AssemblyVersion": "0.2.3.4",
+    "AssemblyVersion": "0.2.4.0",
     "RepoUrl": "https://github.com/chalkos/Marketbuddy",
     "ApplicableVersion": "any",
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Marketbuddy.zip",
     "IsTestingExclusive": false,
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Marketbuddy.zip",
     "DownloadCount": 69696969,
-    "LastUpdated": "1737889082",
-    "Changelog": "- update for 7.2 (thanks Limiana)"
+    "LastUpdated": "1754532873",
+    "Changelog": "* update for api13 (thanks PhoenixtheII)\n* persist option to open current prices list when holding SHIFT (thanks PhoenixtheII)"
   },
   {
     "Author": "Ny",
@@ -447,16 +447,16 @@
     "Name": "NoClippy [Bees]",
     "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
     "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-    "Changelog": "",
+    "Changelog": "Fixed for 7.3 (Thanks to Zeffuro)",
     "InternalName": "NoClippy",
-    "AssemblyVersion": "0.5.0.18",
+    "AssemblyVersion": "0.5.0.19",
     "RepoUrl": "https://github.com/UnknownX7/NoClippy",
     "ApplicableVersion": "any",
     "CategoryTags": [
       "jobs",
       "utility"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "IconUrl": "",
     "ImageUrls": [
       ""
@@ -465,7 +465,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NoClippy.zip",
     "DownloadCount": 69696969,
-    "LastUpdate": "1742952225"
+    "LastUpdate": "1754723794"
   },
   {
     "Name": "NoComms [Bees]",
@@ -585,13 +585,13 @@
     "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
     "Changelog": "",
     "InternalName": "ReAction",
-    "AssemblyVersion": "1.3.4.1",
+    "AssemblyVersion": "1.3.4.2",
     "RepoUrl": "https://github.com/UnknownX7/ReAction",
     "ApplicableVersion": "any",
     "CategoryTags": [
       "jobs"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "IconUrl": "",
     "ImageUrls": [
       ""
@@ -600,7 +600,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ReAction.zip",
     "DownloadCount": 69696969,
-    "LastUpdate": "1743025009"
+    "LastUpdate": "1754732126"
   },
   {
     "Author": "Taurenkey, NightmareXIV",
