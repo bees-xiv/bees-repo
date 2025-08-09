@@ -63,13 +63,13 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.5.0.1",
+    "version": "1.5.0.3",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer"
   },
   {
     "name": "HaselDebug",
-    "version": "1.30.1",
+    "version": "1.30.2",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -132,7 +132,7 @@
   },
   {
     "name": "NOTED",
-    "version": "0.0.0.0",
+    "version": "1.6.0.0",
     "repo": "d17",
     "projectRoot": "NOTED"
   },
@@ -150,7 +150,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.5.0.1",
+    "version": "1.5.0.2",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
