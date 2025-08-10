@@ -25,7 +25,7 @@
   },
   {
     "name": "BDTHPlugin",
-    "version": "1.6.9",
+    "version": "1.7.0",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },

@@ -104,7 +104,7 @@
     "Description": "Move around housing items with coordinates and allows you to place anywhere.",
     "Punchline": "House decorating made easy!",
     "InternalName": "BDTHPlugin",
-    "AssemblyVersion": "1.6.9",
+    "AssemblyVersion": "1.7.0",
     "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -116,10 +116,10 @@
       "furnishing",
       "LeonBlade"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1743456054,
+    "LastUpdated": 1754798589,
     "DownloadCount": 69696969,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BDTHPlugin.zip"
