@@ -13,13 +13,13 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.5",
+    "version": "5.0.0.6",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.1.17",
+    "version": "4.5.1.18",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "CustomizePlus",
-    "version": "2.0.7.23",
+    "version": "2.0.7.26",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
     "projectRoot": "./CustomizePlus"
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "GatherbuddyReborn",
-    "version": "7.3.0.1",
+    "version": "7.3.0.2",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
@@ -69,7 +69,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.30.2",
+    "version": "1.30.3",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -174,13 +174,13 @@
   },
   {
     "name": "Squadronista",
-    "version": "0.0.0.0",
+    "version": "7.0",
     "repo": "https://plugins.carvel.li",
     "projectRoot": "./Squadronista"
   },
   {
     "name": "vnavmesh",
-    "version": "0.4.1.0",
+    "version": "0.4.1.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
