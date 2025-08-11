@@ -193,7 +193,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "0.0.0.12",
+    "version": "0.0.0.13",
     "repo": "https://raw.githubusercontent.com/Final-Fantasy-XIV-Voices/XivVoices/main/repo.json",
     "projectRoot": "."
   },
