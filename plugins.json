@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.7",
+    "version": "5.0.0.8",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -193,7 +193,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "0.0.0.15",
+    "version": "0.0.0.16",
     "repo": "https://raw.githubusercontent.com/Final-Fantasy-XIV-Voices/XivVoices/main/repo.json",
     "projectRoot": "."
   },
