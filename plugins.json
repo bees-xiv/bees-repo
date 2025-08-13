@@ -144,7 +144,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.14",
+    "version": "1.6.3.15",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
@@ -180,7 +180,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "0.4.1.1",
+    "version": "0.4.1.2",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
