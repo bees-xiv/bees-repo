@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.8",
+    "version": "5.0.0.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -69,7 +69,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.30.3",
+    "version": "1.30.4",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -150,7 +150,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.5.0.4",
+    "version": "1.5.0.5",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
@@ -162,7 +162,7 @@
   },
   {
     "name": "Saucy",
-    "version": "0.0.0.0",
+    "version": "1.4.2.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
