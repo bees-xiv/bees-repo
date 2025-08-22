@@ -106,12 +106,6 @@
     }
   },
   {
-    "name": "MareSynchronos",
-    "version": "0.11.22",
-    "repo": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json",
-    "projectRoot": "./MareSynchronos"
-  },
-  {
     "name": "Marketbuddy",
     "version": "0.2.4.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
