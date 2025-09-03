@@ -7,13 +7,13 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.3.55",
+    "version": "4.0.3.61",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.9",
+    "version": "5.0.0.11",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "CustomizePlus",
-    "version": "2.0.7.27",
+    "version": "2.0.8.1",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
     "projectRoot": "./CustomizePlus"
   },
@@ -63,20 +63,20 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.5.0.7",
+    "version": "1.5.1.2",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer"
   },
   {
     "name": "HaselDebug",
-    "version": "1.30.5",
+    "version": "1.32.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
   },
   {
     "name": "HaselTweaks",
-    "version": "37.0.2",
+    "version": "38.0.2",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -95,7 +95,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.2.4",
+    "version": "2.5.2.6",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream",
     "submodules": {
@@ -138,13 +138,13 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.15",
+    "version": "1.6.3.18",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
   {
     "name": "Penumbra",
-    "version": "1.5.0.6",
+    "version": "1.5.1.2",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
@@ -162,32 +162,32 @@
   },
   {
     "name": "SimpleHeels",
-    "version": "0.10.7.7",
+    "version": "0.10.7.8",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
   {
     "name": "vnavmesh",
-    "version": "0.4.1.2",
+    "version": "0.5.0.2",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
   },
   {
     "name": "Visibility",
-    "version": "1.1.9.1",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
   {
     "name": "XivVoices",
-    "version": "0.0.0.19",
+    "version": "0.0.0.21",
     "repo": "https://raw.githubusercontent.com/Final-Fantasy-XIV-Voices/XivVoices/main/repo.json",
     "projectRoot": "."
   },
   {
     "name": "YesAlready",
-    "version": "1.11.3",
+    "version": "1.13.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   }
