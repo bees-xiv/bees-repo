@@ -167,12 +167,6 @@
     "projectRoot": "."
   },
   {
-    "name": "Squadronista",
-    "version": "7.0",
-    "repo": "https://plugins.carvel.li",
-    "projectRoot": "./Squadronista"
-  },
-  {
     "name": "vnavmesh",
     "version": "0.4.1.2",
     "repo": "https://puni.sh/api/repository/veyn",
