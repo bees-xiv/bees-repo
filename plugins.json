@@ -69,7 +69,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.32.1",
+    "version": "1.32.2",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -95,7 +95,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.2.6",
+    "version": "2.5.2.7",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream",
     "submodules": {
