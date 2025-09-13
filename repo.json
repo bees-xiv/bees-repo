@@ -584,7 +584,7 @@
     "Author": "Caraxi",
     "Name": "Simple Heels [Bees]",
     "InternalName": "SimpleHeels",
-    "AssemblyVersion": "0.10.7.10",
+    "AssemblyVersion": "0.11.0.1",
     "Description": "Adjust the position of your character model",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
@@ -594,7 +594,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Adjust the position of your character model",
-    "LastUpdate": 1757407491,
+    "LastUpdate": 1757769103,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SimpleHeels.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SimpleHeels.zip",
     "DownloadCount": 69696969
