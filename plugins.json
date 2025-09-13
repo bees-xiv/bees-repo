@@ -132,7 +132,7 @@
   },
   {
     "name": "Orbwalker",
-    "version": "1.0.1.5",
+    "version": "1.0.1.6",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Orbwalker"
   },
@@ -181,7 +181,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.13.02",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   }

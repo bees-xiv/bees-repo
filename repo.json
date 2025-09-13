@@ -481,13 +481,13 @@
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
     "DownloadCount": 69696969,
-    "LastUpdate": 1755382108751,
+    "LastUpdate": 1757745201026,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Orbwalker.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Orbwalker.zip",
-    "AssemblyVersion": "1.0.1.5",
+    "AssemblyVersion": "1.0.1.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "13",
-    "Changelog": "- Fix overlay",
+    "Changelog": "- Improved job selection UI\n- Fixed error caused by selecting DoH/DoL in Jobs tab (by Akechi)\n- Added Meditate from SAM under Job-specific Actions in Extras tab (by Akechi)\n- Added Block All Movement option; supports Controller & KBM (by Akechi)\n- UI cleanup (by Akechi)\n- Vector mode for overlay, supports vertical layout (by wah)",
     "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
   },
   {
@@ -654,31 +654,6 @@
     "Changelog": "",
     "TestingDalamudApiLevel": "13",
     "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png"
-  },
-  {
-    "Author": "keifufu",
-    "Name": "XivVoices [Bees]",
-    "Punchline": "Turning every dialogue into a voiced dialogue!",
-    "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
-    "Tags": [
-      "XivVoices",
-      "XIVV"
-    ],
-    "InternalName": "XivVoices",
-    "AssemblyVersion": "0.0.0.23",
-    "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/Final-Fantasy-XIV-Voices/XivVoices",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "TestingDalamudApiLevel": 0,
-    "DownloadCount": 69696969,
-    "LastUpdate": 1757152392,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
-    "LoadRequiredState": 2,
-    "LoadSync": true,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/Final-Fantasy-XIV-Voices/XivVoices/main/data/logo.png"
   },
   {
     "Author": "daemitus, kawaii",
