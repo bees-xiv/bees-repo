@@ -95,7 +95,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.2.7",
+    "version": "2.5.2.9",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream",
     "submodules": {
@@ -181,7 +181,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.13.02",
+    "version": "1.13.03",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   }
