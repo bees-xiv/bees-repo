@@ -76,7 +76,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "38.0.4",
+    "version": "38.0.5",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -168,7 +168,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "0.5.0.2",
+    "version": "0.5.1.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
