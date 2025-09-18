@@ -656,6 +656,31 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png"
   },
   {
+    "Author": "keifufu",
+    "Name": "XivVoices [Bees]",
+    "Punchline": "Turning every dialogue into a voiced dialogue!",
+    "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
+    "Tags": [
+      "XivVoices",
+      "XIVV"
+    ],
+    "InternalName": "XivVoices",
+    "AssemblyVersion": "1.0.0.7",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/keifufu/XivVoices",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 0,
+    "DownloadCount": 69696969,
+    "LastUpdate": 1757982456,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/data/logo.png"
+  },
+  {
     "Author": "daemitus, kawaii",
     "Name": "Yes Already [Bees]",
     "Punchline": "Clicks Yes in various dialogs you've specified.",

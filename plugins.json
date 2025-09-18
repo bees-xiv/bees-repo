@@ -187,7 +187,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "0.0.0.0",
+    "version": "1.0.0.7",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
