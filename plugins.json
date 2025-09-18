@@ -184,5 +184,11 @@
     "version": "1.13.03",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
+  },
+  {
+    "name": "XivVoices",
+    "version": "0.0.0.0",
+    "repo": "https://xivv.keifufu.dev/repo",
+    "projectRoot": "."
   }
 ]
