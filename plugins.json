@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.11",
+    "version": "5.0.0.13",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -162,7 +162,7 @@
   },
   {
     "name": "SimpleHeels",
-    "version": "0.11.0.2",
+    "version": "0.11.0.3",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
