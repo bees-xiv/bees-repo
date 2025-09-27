@@ -168,7 +168,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "0.5.2.0",
+    "version": "0.5.2.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
@@ -187,7 +187,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.0.0.12",
+    "version": "1.0.0.13",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
