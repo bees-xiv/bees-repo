@@ -76,7 +76,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "40.0.0",
+    "version": "40.0.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
