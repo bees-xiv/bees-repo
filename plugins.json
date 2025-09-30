@@ -25,7 +25,7 @@
   },
   {
     "name": "BDTHPlugin",
-    "version": "1.7.0",
+    "version": "1.7.1",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },
@@ -187,7 +187,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.0.0.13",
+    "version": "1.0.0.14",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
