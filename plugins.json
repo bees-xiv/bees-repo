@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.3.61",
+    "version": "4.0.3.63",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.1.21",
+    "version": "4.5.2.1",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
