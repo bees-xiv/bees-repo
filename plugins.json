@@ -36,6 +36,12 @@
     "projectRoot": "."
   },
   {
+    "name": "Brio",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
+    "projectRoot": "./Brio" 
+  },
+  {
     "name": "Cammy",
     "version": "2.1.0.13",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
@@ -111,6 +117,12 @@
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "13"
+  },
+  {
+    "name": "Moodles",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+    "projectRoot": "./Moodles"
   },
   {
     "name": "NoClippy",
