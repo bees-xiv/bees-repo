@@ -37,9 +37,9 @@
   },
   {
     "name": "Brio",
-    "version": "0.0.0.0",
+    "version": "0.6.0",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
-    "projectRoot": "./Brio" 
+    "projectRoot": "./Brio"
   },
   {
     "name": "Cammy",
@@ -120,7 +120,7 @@
   },
   {
     "name": "Moodles",
-    "version": "0.0.0.0",
+    "version": "1.0.0.53",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },

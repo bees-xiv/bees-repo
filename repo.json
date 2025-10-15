@@ -98,6 +98,33 @@
     "IconUrl": ""
   },
   {
+    "Author": "Minmoose, Asgard and Contributors",
+    "Name": "Brio [Bees]",
+    "Punchline": "Enhanced GPosing.",
+    "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
+    "InternalName": "Brio",
+    "AssemblyVersion": "0.6.0",
+    "RepoUrl": "https://github.com/Etheirys/Brio",
+    "ApplicableVersion": "any",
+    "DownloadCount": 69696969,
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Brio.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
+    "Tags": [
+      "gpose",
+      "brio",
+      "posing",
+      "pose",
+      "animation",
+      "xat",
+      "cutscene",
+      "utility",
+      "tools"
+    ]
+  },
+  {
     "Author": "LeonBlade",
     "Name": "Burning Down the House [Bees]",
     "Description": "Move around housing items with coordinates and allows you to place anywhere.",
@@ -395,6 +422,25 @@
     "DownloadCount": 69696969,
     "LastUpdated": "1754532873",
     "Changelog": "* update for api13 (thanks PhoenixtheII)\n* persist option to open current prices list when holding SHIFT (thanks PhoenixtheII)"
+  },
+  {
+    "Author": "kawaii, Glyceri",
+    "Name": "Moodles [Bees]",
+    "InternalName": "Moodles",
+    "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
+    "ApplicableVersion": "any",
+    "Punchline": "Crippling depression now in the form of a debuff, kupo!",
+    "RepoUrl": "https://github.com/kawaii/Moodles",
+    "AcceptsFeedback": false,
+    "DalamudApiLevel": 13,
+    "AssemblyVersion": "1.0.0.53",
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Moodles.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Moodles.zip",
+    "IconUrl": "https://raw.githubusercontent.com/kawaii/Moodles/main/images/icon.png",
+    "Tags": [
+      "Sea Of Stars"
+    ],
+    "DownloadCount": 69696969
   },
   {
     "Author": "UnknownX",
