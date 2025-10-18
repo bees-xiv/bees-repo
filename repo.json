@@ -261,9 +261,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.3.5.2",
+    "AssemblyVersion": "7.3.5.3",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Node Mismatch BugFix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/417\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.5.1...7.3.5.2",
+    "Changelog": "## What's Changed\r\n* Diadem 2 electric boogaloo by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/418\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.5.2...7.3.5.3",
     "DownloadCount": 69696969
   },
   {
