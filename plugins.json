@@ -101,7 +101,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.2.10",
+    "version": "2.5.3.1",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream",
     "submodules": {
@@ -174,7 +174,7 @@
   },
   {
     "name": "SimpleHeels",
-    "version": "0.11.0.15",
+    "version": "0.11.0.16",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
