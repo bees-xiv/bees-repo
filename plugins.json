@@ -101,7 +101,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.3.1",
+    "version": "2.5.3.2",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream",
     "submodules": {
@@ -193,7 +193,7 @@
   },
   {
     "name": "visland",
-    "version": "0.0.0.0",
+    "version": "0.0.0.137",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
