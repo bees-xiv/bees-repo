@@ -192,6 +192,12 @@
     "projectRoot": "./Visibility"
   },
   {
+    "name": "visland",
+    "version": "0.0.0.0",
+    "repo": "https://puni.sh/api/repository/veyn",
+    "projectRoot": "./ffxiv_visland"
+  },
+  {
     "name": "YesAlready",
     "version": "1.13.03",
     "repo": "https://puni.sh/api/plugins",
