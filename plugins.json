@@ -12,6 +12,12 @@
     "projectRoot": "./Artisan"
   },
   {
+    "name": "AutoDuty",
+    "version": "0.0.0.0",
+    "repo": "https://puni.sh/api/repository/herc",
+    "projectRoot": "./AutoDuty"
+  },
+  {
     "name": "AutoHook",
     "version": "5.0.0.15",
     "repo": "https://puni.sh/api/plugins",
@@ -34,6 +40,12 @@
     "version": "1.4.0.1",
     "repo": "bees-build",
     "projectRoot": "."
+  },
+  {
+    "name": "BossMod",
+    "version": "0.0.0.0",
+    "repo": "https://puni.sh/api/repository/veyn",
+    "projectRoot": "./BossMod"
   },
   {
     "name": "Brio",
@@ -196,6 +208,12 @@
     "version": "0.0.0.137",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
+  },
+  {
+    "name": "WrathCombo",
+    "version": "0.0.0.0",
+    "repo": "https://love.puni.sh/ment.json",
+    "projectRoot": "./WrathCombo"
   },
   {
     "name": "YesAlready",
