@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.251",
+    "version": "0.0.0.252",
     "repo": "https://puni.sh/api/repository/herc",
     "projectRoot": "./AutoDuty"
   },
