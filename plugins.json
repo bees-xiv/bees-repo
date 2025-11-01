@@ -192,45 +192,45 @@
   },
   {
     "name": "Snowcloak",
-    "version": "0.0.0.0",
+    "version": "0.3.1",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./SnowcloakSync",
     "csprojName": "SnowcloakSync"
   },
   {
     "name": "vnavmesh",
-    "version": "0.5.4.0",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
   },
   {
     "name": "Visibility",
-    "version": "1.1.9.1",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
   {
     "name": "visland",
-    "version": "0.0.0.137",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.2.17",
+    "version": "0.0.0.0",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
   {
     "name": "YesAlready",
-    "version": "1.13.03",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
   {
     "name": "XivVoices",
-    "version": "1.1.0.3",
+    "version": "0.0.0.0",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
