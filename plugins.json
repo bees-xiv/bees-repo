@@ -194,7 +194,8 @@
     "name": "Snowcloak",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
-    "projectRoot": "./SnowcloakSync"
+    "projectRoot": "./SnowcloakSync",
+    "csprojName": "SnowcloakSync"
   },
   {
     "name": "vnavmesh",
