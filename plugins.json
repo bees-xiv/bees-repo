@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.5.0",
+    "version": "0.4.5.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -192,14 +192,14 @@
   },
   {
     "name": "Snowcloak",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./MareSynchronos",
     "csprojName": "MareSynchronos"
   },
   {
     "name": "vnavmesh",
-    "version": "0.5.4.0",
+    "version": "0.5.4.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
