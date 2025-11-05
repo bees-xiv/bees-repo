@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.252",
+    "version": "0.0.0.253",
     "repo": "https://puni.sh/api/repository/herc",
     "projectRoot": "./AutoDuty"
   },
@@ -162,7 +162,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.18",
+    "version": "1.6.3.19",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
