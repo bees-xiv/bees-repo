@@ -13,67 +13,67 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.253",
+    "version": "0.0.0.255",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.15",
+    "version": "5.0.0.16",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.2.1",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
   {
     "name": "BDTHPlugin",
-    "version": "1.7.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },
   {
     "name": "BlackBox",
-    "version": "1.4.0.1",
+    "version": "0.0.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
   {
     "name": "BossMod",
-    "version": "0.4.5.3",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
   {
     "name": "Brio",
-    "version": "0.6.0.3",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
     "projectRoot": "./Brio"
   },
   {
     "name": "Cammy",
-    "version": "2.1.0.13",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
   {
     "name": "CustomizePlus",
-    "version": "2.0.8.4",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
     "projectRoot": "./CustomizePlus"
   },
   {
     "name": "DisPlacePlugin",
-    "version": "7.3.0",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
     "projectRoot": "./DisPlacePlugin"
   },
   {
     "name": "GatherbuddyReborn",
-    "version": "7.3.5.12",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
@@ -81,39 +81,39 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.5.1.3",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer"
   },
   {
     "name": "HaselDebug",
-    "version": "1.38.0",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
   },
   {
     "name": "HaselTweaks",
-    "version": "40.0.3",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
   },
   {
     "name": "Honorific",
-    "version": "1.6.0.2",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "."
   },
   {
     "name": "LazyLoot",
-    "version": "5.3.2.4",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot"
   },
   {
     "name": "Lifestream",
-    "version": "2.5.3.3",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream",
     "submodules": {
@@ -125,112 +125,112 @@
   },
   {
     "name": "Marketbuddy",
-    "version": "0.2.4.0",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "13"
   },
   {
     "name": "Moodles",
-    "version": "1.0.0.53",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
   {
     "name": "NoClippy",
-    "version": "0.5.0.19",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
   {
     "name": "NoComms",
-    "version": "1.2.0.0",
+    "version": "0.0.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
   {
     "name": "NOTED",
-    "version": "1.6.0.0",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "NOTED"
   },
   {
     "name": "Orbwalker",
-    "version": "1.0.1.6",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Orbwalker"
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.19",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
   {
     "name": "Penumbra",
-    "version": "1.5.1.6",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
   {
     "name": "ReAction",
-    "version": "1.3.4.2",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
   {
     "name": "Saucy",
-    "version": "1.4.2.7",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
   {
     "name": "SimpleHeels",
-    "version": "0.11.0.18",
+    "version": "0.0.0.0",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
   {
     "name": "Snowcloak",
-    "version": "0.3.2",
+    "version": "0.4.0",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./MareSynchronos",
     "csprojName": "MareSynchronos"
   },
   {
     "name": "vnavmesh",
-    "version": "0.5.6.0",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
   },
   {
     "name": "Visibility",
-    "version": "1.1.9.1",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
   {
     "name": "visland",
-    "version": "0.0.0.137",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.2.18",
+    "version": "0.0.0.0",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
   {
     "name": "YesAlready",
-    "version": "1.13.03",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
   {
     "name": "XivVoices",
-    "version": "1.1.0.4",
+    "version": "0.0.0.0",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
