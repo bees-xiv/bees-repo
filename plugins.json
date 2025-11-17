@@ -192,14 +192,14 @@
   },
   {
     "name": "Snowcloak",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./MareSynchronos",
     "csprojName": "MareSynchronos"
   },
   {
     "name": "vnavmesh",
-    "version": "0.5.6.0",
+    "version": "0.5.6.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
