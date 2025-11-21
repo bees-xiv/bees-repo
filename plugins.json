@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "0.0.0.0",
+    "version": "5.0.0.21",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
