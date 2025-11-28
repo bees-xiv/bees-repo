@@ -311,9 +311,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.3.8.9",
+    "AssemblyVersion": "7.3.8.10",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Fishing improvements by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/454\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.8.8...7.3.8.9",
+    "Changelog": "## What's Changed\r\n* Fishing improvements by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/455\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.8.9...7.3.8.10",
     "DownloadCount": 69696969
   },
   {
@@ -824,14 +824,14 @@
       "XIVV"
     ],
     "InternalName": "XivVoices",
-    "AssemblyVersion": "1.1.0.4",
+    "AssemblyVersion": "1.1.0.5",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/keifufu/XivVoices",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 0,
     "DownloadCount": 69696969,
-    "LastUpdate": 1762016116,
+    "LastUpdate": 1764328079,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
     "LoadRequiredState": 2,

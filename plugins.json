@@ -73,7 +73,7 @@
   },
   {
     "name": "GatherbuddyReborn",
-    "version": "7.3.8.9",
+    "version": "7.3.8.10",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
@@ -230,7 +230,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.1.0.4",
+    "version": "1.1.0.5",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
