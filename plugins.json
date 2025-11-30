@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.7.0",
+    "version": "0.4.8.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -162,7 +162,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.21",
+    "version": "1.6.3.22",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
@@ -192,7 +192,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "0.4.2",
+    "version": "1.0.1",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./MareSynchronos",
     "csprojName": "MareSynchronos"
