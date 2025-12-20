@@ -37,7 +37,7 @@
   },
   {
     "name": "BlackBox",
-    "version": "1.4.0.1",
+    "version": "1.4.0.2",
     "repo": "bees-build",
     "projectRoot": "."
   },
@@ -144,7 +144,7 @@
   },
   {
     "name": "NoComms",
-    "version": "1.2.0.0",
+    "version": "1.2.0.1",
     "repo": "bees-build",
     "projectRoot": "."
   },
