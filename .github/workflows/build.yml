@@ -52,7 +52,7 @@ jobs:
         if: env.skip_build != 'true'
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: 9.0.303 # usually 9.0.x, except 9.0.304 fucking breaks autoretainer build. fuck yourself msft.
+          dotnet-version: 10.0.x
       - name: Download Dalamud
         if: env.skip_build != 'true'
         run: |
