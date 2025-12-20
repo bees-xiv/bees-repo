@@ -476,7 +476,8 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Marketbuddy.zip",
     "DownloadCount": 69696969,
     "LastUpdated": "1766192783",
-    "Changelog": "* update for api14 and 7.4 (thanks Cyenia)"
+    "Changelog": "* update for api14 and 7.4 (thanks Cyenia)",
+    "DalamudApiLevel": "14"
   },
   {
     "Author": "kawaii, Glyceri",
@@ -586,7 +587,7 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Orbwalker.zip",
     "AssemblyVersion": "1.0.1.7",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "13",
+    "DalamudApiLevel": "14",
     "Changelog": "- 7.4",
     "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
   },
