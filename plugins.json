@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.3",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -25,13 +25,13 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.3.3",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
   {
     "name": "BDTHPlugin",
-    "version": "1.7.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },
@@ -107,13 +107,13 @@
   },
   {
     "name": "LazyLoot",
-    "version": "5.3.2.6",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot"
   },
   {
     "name": "Lifestream",
-    "version": "2.5.3.5",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream",
     "submodules": {
@@ -132,7 +132,7 @@
   },
   {
     "name": "Moodles",
-    "version": "1.0.0.53",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
@@ -175,7 +175,7 @@
   },
   {
     "name": "ReAction",
-    "version": "1.3.4.2",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
