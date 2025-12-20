@@ -125,7 +125,7 @@
   },
   {
     "name": "Marketbuddy",
-    "version": "0.2.4.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "14"
