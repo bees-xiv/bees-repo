@@ -128,7 +128,7 @@
     "version": "0.2.4.1",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
-    "apiLevel": "13"
+    "apiLevel": "14"
   },
   {
     "name": "Moodles",
@@ -158,7 +158,8 @@
     "name": "Orbwalker",
     "version": "1.0.1.7",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Orbwalker"
+    "projectRoot": "./Orbwalker",
+    "apiLevel": "14"
   },
   {
     "name": "PandorasBox",
