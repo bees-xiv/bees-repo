@@ -194,8 +194,7 @@
     "name": "Snowcloak",
     "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
-    "projectRoot": "./MareSynchronos",
-    "csprojName": "MareSynchronos"
+    "projectRoot": "./Snowcloak"
   },
   {
     "name": "vnavmesh",
