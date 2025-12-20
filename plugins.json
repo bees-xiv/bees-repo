@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.22",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -125,7 +125,7 @@
   },
   {
     "name": "Marketbuddy",
-    "version": "0.2.4.0",
+    "version": "0.2.4.1",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "13"
@@ -156,7 +156,7 @@
   },
   {
     "name": "Orbwalker",
-    "version": "1.0.1.6",
+    "version": "1.0.1.7",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Orbwalker"
   },
@@ -192,45 +192,45 @@
   },
   {
     "name": "Snowcloak",
-    "version": "1.0.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./MareSynchronos",
     "csprojName": "MareSynchronos"
   },
   {
     "name": "vnavmesh",
-    "version": "0.5.6.2",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
   },
   {
     "name": "Visibility",
-    "version": "1.1.9.1",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
   {
     "name": "visland",
-    "version": "0.0.0.137",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.2.22",
+    "version": "0.0.0.0",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
   {
     "name": "YesAlready",
-    "version": "1.13.05",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
   {
     "name": "XivVoices",
-    "version": "1.1.0.5",
+    "version": "0.0.0.0",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }

@@ -468,15 +468,15 @@
     "Punchline": "Less clicks, more gil!",
     "Description": "Helper for your day-to-day market operations.",
     "InternalName": "Marketbuddy",
-    "AssemblyVersion": "0.2.4.0",
+    "AssemblyVersion": "0.2.4.1",
     "RepoUrl": "https://github.com/chalkos/Marketbuddy",
     "ApplicableVersion": "any",
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Marketbuddy.zip",
     "IsTestingExclusive": false,
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Marketbuddy.zip",
     "DownloadCount": 69696969,
-    "LastUpdated": "1754532873",
-    "Changelog": "* update for api13 (thanks PhoenixtheII)\n* persist option to open current prices list when holding SHIFT (thanks PhoenixtheII)"
+    "LastUpdated": "1766192783",
+    "Changelog": "* update for api14 and 7.4 (thanks Cyenia)"
   },
   {
     "Author": "kawaii, Glyceri",
@@ -581,13 +581,13 @@
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
     "DownloadCount": 69696969,
-    "LastUpdate": 1757745201,
+    "LastUpdate": 1766123119,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Orbwalker.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Orbwalker.zip",
-    "AssemblyVersion": "1.0.1.6",
+    "AssemblyVersion": "1.0.1.7",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "13",
-    "Changelog": "- Improved job selection UI\n- Fixed error caused by selecting DoH/DoL in Jobs tab (by Akechi)\n- Added Meditate from SAM under Job-specific Actions in Extras tab (by Akechi)\n- Added Block All Movement option; supports Controller & KBM (by Akechi)\n- UI cleanup (by Akechi)\n- Vector mode for overlay, supports vertical layout (by wah)",
+    "Changelog": "- 7.4",
     "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
   },
   {
