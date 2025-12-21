@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "0.0.0.0",
+    "version": "4.0.4.14",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -132,7 +132,7 @@
   },
   {
     "name": "Moodles",
-    "version": "0.0.0.0",
+    "version": "1.0.0.54",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
@@ -193,7 +193,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.0.0.1",
+    "version": "2.0.1.2",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
