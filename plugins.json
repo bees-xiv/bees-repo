@@ -31,7 +31,7 @@
   },
   {
     "name": "BDTHPlugin",
-    "version": "0.0.0.0",
+    "version": "1.7.2",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },
@@ -49,7 +49,7 @@
   },
   {
     "name": "Brio",
-    "version": "0.6.2.2",
+    "version": "0.6.2.3",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
     "projectRoot": "./Brio"
   },
@@ -169,7 +169,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.5.1.11",
+    "version": "1.5.1.12",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
