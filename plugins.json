@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.14",
+    "version": "4.0.4.15",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -94,7 +94,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "40.2.0",
+    "version": "40.2.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -156,7 +156,7 @@
   },
   {
     "name": "Orbwalker",
-    "version": "1.0.1.7",
+    "version": "1.0.1.8",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Orbwalker",
     "apiLevel": "14"
@@ -193,7 +193,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.0.1.2",
+    "version": "2.0.1.3",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
@@ -218,7 +218,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.3.0",
+    "version": "1.0.3.1",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
