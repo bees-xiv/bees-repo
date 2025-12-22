@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.15",
+    "version": "4.0.4.16",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -132,7 +132,7 @@
   },
   {
     "name": "Moodles",
-    "version": "1.0.0.54",
+    "version": "1.0.0.55",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
