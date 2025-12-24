@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.280",
+    "version": "0.0.0.281",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -193,7 +193,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.0.1.5",
+    "version": "2.0.2",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
