@@ -73,7 +73,7 @@
   },
   {
     "name": "GatherbuddyReborn",
-    "version": "7.4.0.5",
+    "version": "7.4.0.6",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
@@ -94,7 +94,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "40.2.1",
+    "version": "40.2.2",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true

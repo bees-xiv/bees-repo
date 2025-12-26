@@ -311,9 +311,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.4.0.5",
+    "AssemblyVersion": "7.4.0.6",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* FishingSpot Relocation by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/483\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.4...7.4.0.5",
+    "Changelog": "## What's Changed\r\n* Elli lib integration by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/487\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.5...7.4.0.6",
     "DownloadCount": 69696969
   },
   {
@@ -371,7 +371,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks [Bees]",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "40.2.1",
+    "AssemblyVersion": "40.2.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -383,9 +383,9 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Auto-select Soil and Seed\n\n- Fixed: Incorrectly inserted planter seeds in garden patches.",
+    "Changelog": "Portrait Helper\n\n- Fixed: The portrait update preview window was displayed due to a mismatched agent in ClientStructs.",
     "DownloadCount": 69696969,
-    "LastUpdate": 1766335026,
+    "LastUpdate": 1766720997,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip"
   },
