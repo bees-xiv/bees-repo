@@ -48,13 +48,13 @@
     "InternalName": "AutoDuty",
     "RepoUrl": "https://github.com/erdelf/AutoDuty",
     "DownloadCount": 69696969,
-    "LastUpdate": 1766555324,
+    "LastUpdate": 1766835166,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
-    "AssemblyVersion": "0.0.0.281",
+    "AssemblyVersion": "0.0.0.282",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
-    "Changelog": "## What's Changed\r\n* (1330) Dzemael Darkhold by @Vicyorus in https://github.com/erdelf/AutoDuty/pull/113\r\n* (1330) Dzemael Adjustment by @erdelf in https://github.com/erdelf/AutoDuty/pull/116\r\n* (1331) Aurum Vale by @erdelf in https://github.com/erdelf/AutoDuty/pull/118\r\n* /start conditions fixed by @erdelf in https://github.com/erdelf/AutoDuty/pull/121\r\n* Warning when termination options active by @erdelf in https://github.com/erdelf/AutoDuty/pull/122\r\n* fix staging check by @erdelf in https://github.com/erdelf/AutoDuty/pull/123\r\n* adjusted disposal to be more robust by @erdelf in https://github.com/erdelf/AutoDuty/pull/124\r\n\r\n## New Contributors\r\n* @Vicyorus made their first contribution in https://github.com/erdelf/AutoDuty/pull/113\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.280...0.0.0.281",
+    "Changelog": "## What's Changed\r\n* Moving (most) IPC access to ECommons.IPC by @erdelf in https://github.com/erdelf/AutoDuty/pull/125\r\n* staging check updated v2 by @erdelf in https://github.com/erdelf/AutoDuty/pull/126\r\n* Wrath IPC moved to their module by @erdelf in https://github.com/erdelf/AutoDuty/pull/127\r\n* leveling configurable via command and ipc by @erdelf in https://github.com/erdelf/AutoDuty/pull/128\r\n* Moved multibox into dedicated namespace by @erdelf in https://github.com/erdelf/AutoDuty/pull/129\r\n* Added stats by @erdelf in https://github.com/erdelf/AutoDuty/pull/130\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.281...0.0.0.282",
     "TestingDalamudApiLevel": "13",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
@@ -311,9 +311,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.4.0.6",
+    "AssemblyVersion": "7.4.0.7",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Elli lib integration by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/487\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.5...7.4.0.6",
+    "Changelog": "## What's Changed\r\n* Elli lib integration by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/489\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.6...7.4.0.7",
     "DownloadCount": 69696969
   },
   {
