@@ -43,13 +43,13 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.11.3",
+    "version": "0.4.12.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
   {
     "name": "Brio",
-    "version": "0.6.2.3",
+    "version": "0.6.2.5",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
     "projectRoot": "./Brio"
   },
@@ -87,7 +87,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.42.6",
+    "version": "1.42.7",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
