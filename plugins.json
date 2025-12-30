@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.12.1",
+    "version": "0.4.12.3",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -163,7 +163,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.25",
+    "version": "1.6.3.26",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },

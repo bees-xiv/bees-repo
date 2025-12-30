@@ -133,10 +133,10 @@
     "InternalName": "BossMod",
     "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
     "DownloadCount": 69696969,
-    "LastUpdate": 1766954617,
+    "LastUpdate": 1767115121,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BossMod.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BossMod.zip",
-    "AssemblyVersion": "0.4.12.1",
+    "AssemblyVersion": "0.4.12.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
     "Changelog": "",
@@ -522,6 +522,28 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NoClippy.zip",
     "DownloadCount": 69696969,
     "LastUpdate": "1766199482"
+  },
+  {
+    "Author": "Taurenkey, NightmareXIV, croizat",
+    "Name": "Pandora's Box [Bees]",
+    "Punchline": "Do you dare to open Pandora's Box?",
+    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+    "Tags": [
+      "punish",
+      "plugin"
+    ],
+    "InternalName": "PandorasBox",
+    "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1767104461,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/PandorasBox.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/PandorasBox.zip",
+    "AssemblyVersion": "1.6.3.26",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "- Fix Pandora Gathering UI on new themes (won't blend but it works).\n- Fix /pmsq.",
+    "TestingDalamudApiLevel": "9",
+    "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
   },
   {
     "Author": "Ottermandias, Nylfae, Adam, Wintermute",
