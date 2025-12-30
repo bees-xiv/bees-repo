@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.19",
+    "version": "4.0.4.23",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -181,7 +181,7 @@
   },
   {
     "name": "Saucy",
-    "version": "1.4.2.8",
+    "version": "1.4.2.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
