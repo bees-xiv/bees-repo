@@ -25,7 +25,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.5.2",
+    "version": "4.5.5.6",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.12.3",
+    "version": "0.4.13.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -94,7 +94,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "40.2.2",
+    "version": "40.3.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
