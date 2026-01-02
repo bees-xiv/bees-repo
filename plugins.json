@@ -55,7 +55,7 @@
   },
   {
     "name": "Cammy",
-    "version": "2.1.0.14",
+    "version": "2.1.0.15",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -113,7 +113,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "0.0.0.0",
+    "version": "2.5.3.11",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
