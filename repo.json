@@ -210,9 +210,9 @@
     "Name": "Cammy [Bees]",
     "Punchline": "A simple editor for the game's camera settings",
     "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-    "Changelog": "Fixed for 7.4 (Thanks to Wah)",
+    "Changelog": "Fix disconnects not reapply presets on login",
     "InternalName": "Cammy",
-    "AssemblyVersion": "2.1.0.14",
+    "AssemblyVersion": "2.1.0.15",
     "RepoUrl": "https://github.com/UnknownX7/Cammy",
     "ApplicableVersion": "any",
     "CategoryTags": [
@@ -227,7 +227,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Cammy.zip",
     "DownloadCount": 69696969,
-    "LastUpdate": "1766200983"
+    "LastUpdate": "1767383467"
   },
   {
     "Author": "Risa and Contributors",
