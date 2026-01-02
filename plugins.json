@@ -224,7 +224,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.14.04",
+    "version": "1.14.05",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
