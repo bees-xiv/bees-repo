@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.23",
+    "version": "4.0.4.24",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.28",
+    "version": "5.0.0.30",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -101,7 +101,7 @@
   },
   {
     "name": "Honorific",
-    "version": "1.7.2.1",
+    "version": "1.7.3.0",
     "repo": "d17",
     "projectRoot": "."
   },
