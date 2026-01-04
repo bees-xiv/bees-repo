@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.24",
+    "version": "4.0.4.25",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -157,7 +157,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.26",
+    "version": "1.6.3.27",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
