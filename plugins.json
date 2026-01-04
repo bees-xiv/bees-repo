@@ -87,14 +87,14 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.42.7",
+    "version": "1.44.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
   },
   {
     "name": "HaselTweaks",
-    "version": "40.3.2",
+    "version": "41.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -127,7 +127,7 @@
   },
   {
     "name": "Moodles",
-    "version": "1.0.0.56",
+    "version": "1.0.0.57",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
