@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.284",
+    "version": "0.0.0.285",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -212,7 +212,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.3.3",
+    "version": "1.0.3.4",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
