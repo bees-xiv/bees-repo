@@ -25,7 +25,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.5.6",
+    "version": "4.5.5.7",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -107,7 +107,7 @@
   },
   {
     "name": "LazyLoot",
-    "version": "0.0.0.0",
+    "version": "5.3.2.7",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot",
     "submodules": {
