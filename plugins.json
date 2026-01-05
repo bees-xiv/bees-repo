@@ -110,7 +110,12 @@
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot",
-    "noVersionFlags": true
+    "submodules": {
+      "PunishLib": {
+        "url": "https://github.com/PunishXIV/PunishLib",
+        "commit": "4d1cd3d7fabe47f25c16a43704e51e89004a1354"
+      }
+    }
   },
   {
     "name": "Lifestream",
