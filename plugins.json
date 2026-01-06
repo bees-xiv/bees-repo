@@ -73,7 +73,7 @@
   },
   {
     "name": "GatherbuddyReborn",
-    "version": "7.4.0.11",
+    "version": "7.4.0.12",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
@@ -192,7 +192,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
