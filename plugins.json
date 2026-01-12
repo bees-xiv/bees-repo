@@ -192,7 +192,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.0.6",
+    "version": "2.0.7",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
@@ -217,7 +217,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.3.5",
+    "version": "1.0.3.6",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
