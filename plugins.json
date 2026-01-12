@@ -94,7 +94,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "41.0.0",
+    "version": "41.0.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -217,7 +217,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.3.6",
+    "version": "1.0.3.8",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
