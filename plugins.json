@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.30",
+    "version": "5.0.0.31",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -119,7 +119,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.3.11",
+    "version": "2.5.3.14",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
