@@ -87,7 +87,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.44.1",
+    "version": "1.45.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -192,7 +192,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.0.7.1",
+    "version": "2.0.8",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
