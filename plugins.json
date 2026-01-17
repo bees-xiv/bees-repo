@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.32",
+    "version": "5.0.0.35",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -49,7 +49,7 @@
   },
   {
     "name": "Brio",
-    "version": "0.7.0",
+    "version": "0.7.0.1",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
     "projectRoot": "./Brio"
   },
@@ -87,7 +87,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.45.2",
+    "version": "1.45.3",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
