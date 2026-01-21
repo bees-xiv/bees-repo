@@ -311,9 +311,9 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.4.0.14",
+    "AssemblyVersion": "7.4.0.15",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherbuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Diadem Weather by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/510\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.13...7.4.0.14",
+    "Changelog": "## What's Changed\r\n* Restore Anti-Pandora protection by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/519\r\n* Use mount action availability check instead of mount roulette by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/515\r\n* Remove wait for materia extraction confirmation dialog by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/513\r\n* feat: Add scrip reserve option for collectable purchases by @Luna-Salamanca in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/512\r\n* Teleporting to Upcoming Nodes + Umbral and ActiveItemList Rework by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/517\r\n* Enable Diadem Umbral fish support by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/522\r\n* Collect overcap by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/523\r\n\r\n## New Contributors\r\n* @Luna-Salamanca made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/512\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.14...7.4.0.15",
     "DownloadCount": 69696969
   },
   {
