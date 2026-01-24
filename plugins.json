@@ -211,7 +211,7 @@
   },
   {
     "name": "visland",
-    "version": "0.0.0.140",
+    "version": "0.0.0.141",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
@@ -223,7 +223,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.14.06",
+    "version": "1.14.07",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
