@@ -87,7 +87,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.46.0",
+    "version": "1.47.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -138,7 +138,7 @@
   },
   {
     "name": "NoClippy",
-    "version": "0.5.0.21",
+    "version": "0.5.0.22",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -192,7 +192,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
