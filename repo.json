@@ -153,7 +153,7 @@
     "Punchline": "Enhanced GPosing! A utility for improving the G-Pose experience in FFXIV.",
     "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during G-Pose.\n\n- Advanced actor posing \n\t- While animating\n\t- Adjust actor positions without them resetting\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra, Glamourer & Customize+\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of G-Pose actors\n- Control Time/Weather in both the Overworld and G-Pose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of G-Pose actors",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.7.1",
+    "AssemblyVersion": "0.7.1.1",
     "RepoUrl": "https://github.com/Etheirys/Brio",
     "ApplicableVersion": "any",
     "DownloadCount": 69696969,
@@ -503,9 +503,9 @@
     "Name": "NoClippy [Bees]",
     "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
     "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-    "Changelog": "Fixed for 7.4 (Thanks to Zeffuro)",
+    "Changelog": "Fixed crash (Thanks to Zeffuro)",
     "InternalName": "NoClippy",
-    "AssemblyVersion": "0.5.0.20",
+    "AssemblyVersion": "0.5.0.21",
     "RepoUrl": "https://github.com/UnknownX7/NoClippy",
     "ApplicableVersion": "any",
     "CategoryTags": [
@@ -521,7 +521,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NoClippy.zip",
     "DownloadCount": 69696969,
-    "LastUpdate": "1766199482"
+    "LastUpdate": "1769554730"
   },
   {
     "Name": "NoComms [Bees]",
