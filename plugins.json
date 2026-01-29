@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.19.3",
+    "version": "0.4.19.4",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -229,7 +229,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.2.1.3",
+    "version": "1.2.1.4",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
