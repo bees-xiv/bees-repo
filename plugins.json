@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.39",
+    "version": "5.0.0.41",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -198,7 +198,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.2.2",
+    "version": "1.2.2.3",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
@@ -229,7 +229,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.2.1.6",
+    "version": "1.2.1.7",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
