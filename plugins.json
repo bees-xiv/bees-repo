@@ -55,7 +55,7 @@
   },
   {
     "name": "Cammy",
-    "version": "0.0.0.0",
+    "version": "2.1.0.15",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
