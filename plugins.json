@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.32",
+    "version": "4.0.4.35",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.43",
+    "version": "5.0.0.44",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.19.5",
+    "version": "0.4.20.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
