@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.20.2",
+    "version": "0.4.20.3",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -198,7 +198,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.2.4",
+    "version": "1.2.2.5",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
