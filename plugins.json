@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.21.1",
+    "version": "0.4.21.2",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -87,7 +87,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.47.2",
+    "version": "1.48.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -132,7 +132,7 @@
   },
   {
     "name": "Moodles",
-    "version": "1.0.0.57",
+    "version": "1.0.0.58",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
