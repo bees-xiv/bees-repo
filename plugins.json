@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.45",
+    "version": "5.0.0.46",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.21.2",
+    "version": "0.4.21.3",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
