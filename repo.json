@@ -480,7 +480,7 @@
     "DalamudApiLevel": "14"
   },
   {
-    "Author": "kawaii, Glyceri",
+    "Author": "kawaii, Glyceri, Minmoose",
     "Name": "Moodles [Bees]",
     "InternalName": "Moodles",
     "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
@@ -488,15 +488,15 @@
     "Punchline": "Crippling depression now in the form of a debuff, kupo!",
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
+    "DownloadCount": 69696969,
     "DalamudApiLevel": 14,
-    "AssemblyVersion": "1.0.0.58",
+    "AssemblyVersion": "1.1.0.0",
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Moodles.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Moodles.zip",
     "IconUrl": "https://raw.githubusercontent.com/kawaii/Moodles/main/images/icon.png",
     "Tags": [
       "Sea Of Stars"
-    ],
-    "DownloadCount": 69696969
+    ]
   },
   {
     "Author": "UnknownX",
