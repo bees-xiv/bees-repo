@@ -704,7 +704,7 @@
     "Author": "Eauldane",
     "Name": "Snowcloak Sync [Bees]",
     "InternalName": "Snowcloak",
-    "AssemblyVersion": "2.2.2",
+    "AssemblyVersion": "2.2.3",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
