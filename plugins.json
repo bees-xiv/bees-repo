@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.21.4",
+    "version": "0.4.21.5",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -67,7 +67,7 @@
   },
   {
     "name": "DisPlacePlugin",
-    "version": "7.4.0",
+    "version": "7.4.1",
     "repo": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
     "projectRoot": "./DisPlacePlugin"
   },
