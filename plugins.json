@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.291",
+    "version": "0.0.0.292",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.21.5",
+    "version": "0.4.21.6",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -107,7 +107,7 @@
   },
   {
     "name": "IINACT",
-    "version": "0.0.0.0",
+    "version": "2.10.0.3",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
