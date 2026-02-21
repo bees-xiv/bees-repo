@@ -106,6 +106,12 @@
     "projectRoot": "."
   },
   {
+    "name": "IINACT",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
+    "projectRoot": "./IINACT"
+  },
+  {
     "name": "LazyLoot",
     "version": "5.3.2.7",
     "repo": "https://puni.sh/api/plugins",
