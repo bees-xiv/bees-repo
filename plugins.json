@@ -130,6 +130,12 @@
     "projectRoot": "./Lifestream"
   },
   {
+    "name": "LMeter",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
+    "projectRoot": "./LMeter"
+  },
+  {
     "name": "Marketbuddy",
     "version": "0.2.4.1",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
