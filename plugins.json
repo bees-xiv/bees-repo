@@ -131,7 +131,7 @@
   },
   {
     "name": "LMeter",
-    "version": "0.0.0.0",
+    "version": "0.4.3.3",
     "repo": "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
     "projectRoot": "./LMeter"
   },
@@ -241,7 +241,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.2.1.8",
+    "version": "0.0.0.0",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }

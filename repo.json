@@ -485,6 +485,23 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png"
   },
   {
+    "Author": "Lichie",
+    "Name": "LMeter [Bees]",
+    "Description": "Plugin to display ACT combat log data.",
+    "InternalName": "LMeter",
+    "AssemblyVersion": "0.4.3.3",
+    "RepoUrl": "https://github.com/lichie567/LMeter",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IsTestingExclusive": "False",
+    "DownloadCount": 69696969,
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/LMeter.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/LMeter.zip",
+    "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png"
+  },
+  {
     "Author": "Chalkos",
     "Name": "Marketbuddy [Bees]",
     "Punchline": "Less clicks, more gil!",
