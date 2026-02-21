@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.21.6",
+    "version": "0.4.21.7",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -107,13 +107,13 @@
   },
   {
     "name": "IINACT",
-    "version": "0.0.0.0",
+    "version": "2.10.0.3",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
   {
     "name": "LazyLoot",
-    "version": "5.3.2.7",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot",
     "submodules": {
@@ -125,117 +125,117 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.3.20",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
   {
     "name": "Marketbuddy",
-    "version": "0.2.4.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "14"
   },
   {
     "name": "Moodles",
-    "version": "1.1.0.0",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
   {
     "name": "NoClippy",
-    "version": "0.5.0.22",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
   {
     "name": "NoComms",
-    "version": "1.2.0.1",
+    "version": "0.0.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
   {
     "name": "NOTED",
-    "version": "1.7.0.0",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "NOTED"
   },
   {
     "name": "Orbwalker",
-    "version": "1.0.1.9",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Orbwalker"
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.3.27",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
   {
     "name": "Penumbra",
-    "version": "1.5.1.13",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
   {
     "name": "ReAction",
-    "version": "1.3.4.3",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
   {
     "name": "Saucy",
-    "version": "1.4.2.9",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
   {
     "name": "SimpleHeels",
-    "version": "0.11.0.26",
+    "version": "0.0.0.0",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
   {
     "name": "Snowcloak",
-    "version": "2.3.1.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.2.9",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
   },
   {
     "name": "Visibility",
-    "version": "1.1.9.4",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
   {
     "name": "visland",
-    "version": "0.0.0.141",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.3.16",
+    "version": "1.0.3.17",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
   {
     "name": "YesAlready",
-    "version": "1.14.09",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
   {
     "name": "XivVoices",
-    "version": "1.2.1.8",
+    "version": "0.0.0.0",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }
