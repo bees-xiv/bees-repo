@@ -206,6 +206,24 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BDTHPlugin.zip"
   },
   {
+    "Author": "bees-xiv, joshua.software.dev",
+    "Name": "Cactus Watcher [Bees]",
+    "Description": "Plugin to display Cactbot Raidboss info as Dalamud menus.",
+    "InternalName": "CactusWatcher",
+    "AssemblyVersion": "1.0.0.10",
+    "RepoUrl": "https://codeberg.org/joshua-software-dev/CactusWatcher",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IsTestingExclusive": false,
+    "DownloadCount": 69696969,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/CactusWatcher.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/CactusWatcher.zip",
+    "IconUrl": "https://codeberg.org/joshua-software-dev/CactusWatcher/raw/branch/master/deps/img/icon.png",
+    "Changelog": "Update for 7.4, API 14"
+  },
+  {
     "Author": "UnknownX",
     "Name": "Cammy [Bees]",
     "Punchline": "A simple editor for the game's camera settings",
