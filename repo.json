@@ -441,7 +441,7 @@
     "DownloadCount": 69696969
   },
   {
-    "Author": "Taurenkey, NightmareXIV, Gidedin",
+    "Author": "Taurenkey, Gid, NightmareXIV",
     "Name": "LazyLoot [Bees]",
     "Punchline": "Dungeon Loot but Lazy.",
     "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
@@ -461,7 +461,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
     "Changelog": "- 7.4",
-    "TestingDalamudApiLevel": "13",
+    "TestingDalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
   },
   {
@@ -842,8 +842,8 @@
   {
     "Author": "keifufu",
     "Name": "XivVoices [Bees]",
-    "Punchline": "Turning every dialogue into a voiced dialogue!",
-    "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
+    "Punchline": "Transforming Final Fantasy XIV by voicing every piece of dialogue!",
+    "Description": "A plugin that voices every NPC dialogue, battle interaction, and more.",
     "Tags": [
       "XivVoices",
       "XIVV"
