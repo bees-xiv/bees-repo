@@ -118,6 +118,12 @@
     "projectRoot": "./IINACT"
   },
   {
+    "name": "Interjection",
+    "version": "0.0.0.0",
+    "repo": "https://puni.sh/api/repository/sourpuh",
+    "projectRoot": "."
+  },
+  {
     "name": "LazyLoot",
     "version": "5.3.2.7",
     "repo": "https://puni.sh/api/plugins",
@@ -155,6 +161,12 @@
     "projectRoot": "./Moodles"
   },
   {
+    "name": "NecroLens",
+    "version": "0.0.0.0",
+    "repo": "https://github.com/Jukkales/NecroLens",
+    "projectRoot": "./NecroLens"
+  },
+  {
     "name": "NoClippy",
     "version": "0.5.0.22",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
@@ -177,6 +189,12 @@
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Orbwalker"
+  },
+  {
+    "name": "PalacePal",
+    "version": "0.0.0.0",
+    "repo": "https://puni.sh/api/plugins",
+    "projectRoot": "./Pal.Client"
   },
   {
     "name": "PandorasBox",
@@ -203,6 +221,12 @@
     "projectRoot": "./Saucy"
   },
   {
+    "name": "SilenceNoMore",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/Glyceri/SilenceNoMore/main/repo.json",
+    "projectRoot": "./SilenceNoMore"
+  },
+  {
     "name": "SimpleHeels",
     "version": "0.11.0.26",
     "repo": "https://repo.caraxian.com",
@@ -213,6 +237,12 @@
     "version": "2.3.1.1",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
+  },
+  {
+    "name": "Splatoon",
+    "version": "0.0.0.0",
+    "repo": "https://puni.sh/api/plugins",
+    "projectRoot": "./Splatoon"
   },
   {
     "name": "vnavmesh",
