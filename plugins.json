@@ -66,6 +66,12 @@
     "projectRoot": "."
   },
   {
+    "name": "Compass",
+    "version": "0.0.0.0",
+    "repo": "d17",
+    "projectRoot": "./Compass"
+  },
+  {
     "name": "CustomizePlus",
     "version": "2.1.0.0",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
