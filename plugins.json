@@ -195,7 +195,8 @@
     "name": "PalacePal",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Pal.Client"
+    "projectRoot": "./Pal.Client",
+    "csprojName": "Pal.Client"
   },
   {
     "name": "PandorasBox",
