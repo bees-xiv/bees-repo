@@ -121,7 +121,8 @@
     "name": "Interjection",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/sourpuh",
-    "projectRoot": "."
+    "projectRoot": ".",
+    "apiLevel": "14"
   },
   {
     "name": "LazyLoot",
@@ -163,7 +164,7 @@
   {
     "name": "NecroLens",
     "version": "0.0.0.0",
-    "repo": "https://github.com/Jukkales/NecroLens",
+    "repo": "https://puni.sh/api/repository/jukka",
     "projectRoot": "./NecroLens"
   },
   {
