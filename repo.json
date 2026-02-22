@@ -459,6 +459,27 @@
     "DownloadCount": 69696969
   },
   {
+    "Author": "sourpuh",
+    "Name": "Interjection [Bees]",
+    "Punchline": "Better interrupt and enmity tracking",
+    "Description": "Show which casts are interruptible in the Enemy List. Color enmity gems when enemies are targeting other tanks.",
+    "Tags": [],
+    "InternalName": "Interjection",
+    "RepoUrl": "https://github.com/sourpuh/ffxiv_interjection",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1753467986,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Interjection.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Interjection.zip",
+    "AssemblyVersion": "0.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/63/icon-ogeu0gg4g6h.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/63/image-w9qpjb1phr.png"
+    ]
+  },
+  {
     "Author": "Taurenkey, Gid, NightmareXIV",
     "Name": "LazyLoot [Bees]",
     "Punchline": "Dungeon Loot but Lazy.",
@@ -556,6 +577,36 @@
     ]
   },
   {
+    "Author": "jukka",
+    "Name": "NecroLens [Bees]",
+    "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+    "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+    "Tags": [
+      "potd",
+      "hoh",
+      "eo",
+      "esp",
+      "radar",
+      "sonar",
+      "deep",
+      "dungeon"
+    ],
+    "InternalName": "NecroLens",
+    "RepoUrl": "https://github.com/Jukkales/NecroLens",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1766422361,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NecroLens.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NecroLens.zip",
+    "AssemblyVersion": "1.0.8.11",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
+    ]
+  },
+  {
     "Author": "UnknownX",
     "Name": "NoClippy [Bees]",
     "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
@@ -649,6 +700,29 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
   },
   {
+    "Author": "kawaii, jukka",
+    "Name": "Palace Pal [Bees]",
+    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Tags": [
+      "potd",
+      "hoh",
+      "splatoon",
+      "palace"
+    ],
+    "InternalName": "PalacePal",
+    "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1766422628,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/PalacePal.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/PalacePal.zip",
+    "AssemblyVersion": "4.15.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
+  },
+  {
     "Author": "Taurenkey, NightmareXIV, croizat",
     "Name": "Pandora's Box [Bees]",
     "Punchline": "Do you dare to open Pandora's Box?",
@@ -739,6 +813,22 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
   },
   {
+    "Author": "Glyceri",
+    "Name": "Silence no More [Bees]",
+    "InternalName": "SilenceNoMore",
+    "Description": "Shows whispers normally blocked during duties.",
+    "ApplicableVersion": "any",
+    "Punchline": "Shows whispers normally blocked during duties.",
+    "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
+    "AcceptsFeedback": false,
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "1.3.0.1",
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SilenceNoMore.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SilenceNoMore.zip",
+    "Changelog": "Updated to API14.",
+    "DownloadCount": 69696969
+  },
+  {
     "Author": "Caraxi",
     "Name": "Simple Heels [Bees]",
     "InternalName": "SimpleHeels",
@@ -780,6 +870,28 @@
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Snowcloak.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Snowcloak.zip",
     "DownloadCount": 69696969
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "Splatoon [Bees]",
+    "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+    "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+    "Tags": [
+      "Utility",
+      "Accessibility"
+    ],
+    "InternalName": "Splatoon",
+    "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1769577613,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Splatoon.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Splatoon.zip",
+    "AssemblyVersion": "3.9.0.18",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "- Library update",
+    "TestingDalamudApiLevel": "14",
+    "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
   },
   {
     "Author": "veyn, croizat",
