@@ -37,7 +37,7 @@
   },
   {
     "name": "BlackBox",
-    "version": "1.4.0.2",
+    "version": "0.0.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
@@ -67,7 +67,7 @@
   },
   {
     "name": "Compass",
-    "version": "0.0.0.0",
+    "version": "1.32.0",
     "repo": "d17",
     "projectRoot": "./Compass"
   },
