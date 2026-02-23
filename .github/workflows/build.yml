@@ -43,13 +43,11 @@ jobs:
           if [[ "${{ github.event.inputs.rebuild_all }}" == "true" ]]; then
             rebuild_arg="--rebuild-all"
           fi
-          bun bees-build/build.ts --check-only $rebuild_arg
-          exit_code=$?
-          if [[ "$exit_code" -eq 69 ]]; then
+          bun bees-build/build.ts --check-only $rebuild_arg || exit_code=$?
+          if [ "$exit_code" -eq 69 ]; then
             echo "skip_build=true" >> $GITHUB_ENV
-          elif [[ ! "$exit_code" -eq 0 ]]; then
-            exit 1
           fi
+          exit 0
       - name: Setup .NET
         if: env.skip_build != 'true'
         uses: actions/setup-dotnet@v4
@@ -68,11 +66,7 @@ jobs:
           if [[ "${{ github.event.inputs.rebuild_all }}" == "true" ]]; then
             rebuild_arg="--rebuild-all"
           fi
-          bun bees-build/build.ts $rebuild_arg || exit_code=$?
-          if [ "$exit_code" -eq 69 ]; then
-            echo "skip_build=true" >> $GITHUB_ENV
-          fi
-          exit 0
+          bun bees-build/build.ts $rebuild_arg
       - name: Commit changes to plugins.json and repo.json
         if: env.skip_build != 'true'
         run: |
