@@ -287,7 +287,7 @@
     "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "2.1.0.0",
+    "AssemblyVersion": "2.1.1.0",
     "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
