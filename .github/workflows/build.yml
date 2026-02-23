@@ -47,7 +47,7 @@ jobs:
           if [ "$exit_code" -eq 69 ]; then
             echo "skip_build=true" >> $GITHUB_ENV
           fi
-          exit 0
+          # exit 0
       - name: Setup .NET
         if: env.skip_build != 'true'
         uses: actions/setup-dotnet@v4
