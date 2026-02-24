@@ -242,13 +242,13 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.3.1.1",
+    "version": "2.3.2",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
   {
     "name": "Splatoon",
-    "version": "3.9.0.18",
+    "version": "3.9.0.20",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
