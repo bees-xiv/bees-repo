@@ -106,33 +106,33 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "0.0.0.0",
+    "version": "41.1.6",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
   },
   {
     "name": "Honorific",
-    "version": "0.0.0.0",
+    "version": "1.7.4.0",
     "repo": "d17",
     "projectRoot": "."
   },
   {
     "name": "IINACT",
-    "version": "0.0.0.0",
+    "version": "2.10.0.3",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
   {
     "name": "Interjection",
-    "version": "0.0.0.0",
+    "version": "0.0.0.3",
     "repo": "https://puni.sh/api/repository/sourpuh",
     "projectRoot": ".",
     "apiLevel": "14"
   },
   {
     "name": "LazyLoot",
-    "version": "0.0.0.0",
+    "version": "5.3.2.7",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot",
     "submodules": {
@@ -144,50 +144,50 @@
   },
   {
     "name": "Lifestream",
-    "version": "0.0.0.0",
+    "version": "2.5.3.20",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
   {
     "name": "LMeter",
-    "version": "0.0.0.0",
+    "version": "0.4.3.3",
     "repo": "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
     "projectRoot": "./LMeter"
   },
   {
     "name": "Marketbuddy",
-    "version": "0.0.0.0",
+    "version": "0.2.4.1",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "14"
   },
   {
     "name": "Moodles",
-    "version": "0.0.0.0",
+    "version": "1.1.0.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
   {
     "name": "NecroLens",
-    "version": "0.0.0.0",
+    "version": "1.0.8.11",
     "repo": "https://puni.sh/api/repository/jukka",
     "projectRoot": "./NecroLens"
   },
   {
     "name": "NoClippy",
-    "version": "0.0.0.0",
+    "version": "0.5.0.22",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
   {
     "name": "NoComms",
-    "version": "0.0.0.0",
+    "version": "1.2.0.1",
     "repo": "bees-build",
     "projectRoot": "."
   },
   {
     "name": "NOTED",
-    "version": "0.0.0.0",
+    "version": "1.7.0.0",
     "repo": "d17",
     "projectRoot": "NOTED"
   },
@@ -199,14 +199,14 @@
   },
   {
     "name": "PalacePal",
-    "version": "0.0.0.0",
+    "version": "4.15.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Pal.Client",
     "csprojName": "Pal.Client"
   },
   {
     "name": "PandorasBox",
-    "version": "0.0.0.0",
+    "version": "1.6.3.28",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
@@ -218,19 +218,19 @@
   },
   {
     "name": "ReAction",
-    "version": "0.0.0.0",
+    "version": "1.3.4.3",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
   {
     "name": "Saucy",
-    "version": "0.0.0.0",
+    "version": "1.4.2.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
   {
     "name": "SilenceNoMore",
-    "version": "0.0.0.0",
+    "version": "1.3.0.1",
     "repo": "https://raw.githubusercontent.com/Glyceri/SilenceNoMore/main/repo.json",
     "projectRoot": "./SilenceNoMore"
   },
@@ -242,32 +242,32 @@
   },
   {
     "name": "Snowcloak",
-    "version": "0.0.0.0",
+    "version": "2.3.2",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
   {
     "name": "Splatoon",
-    "version": "0.0.0.0",
+    "version": "3.9.0.21",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
   {
     "name": "vnavmesh",
-    "version": "0.0.0.0",
+    "version": "1.2.2.9",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
   },
   {
     "name": "Visibility",
-    "version": "0.0.0.0",
+    "version": "1.1.9.4",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
   {
     "name": "visland",
-    "version": "0.0.0.0",
+    "version": "0.0.0.141",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
@@ -279,13 +279,13 @@
   },
   {
     "name": "YesAlready",
-    "version": "0.0.0.0",
+    "version": "1.14.09",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
   {
     "name": "XivVoices",
-    "version": "0.0.0.0",
+    "version": "1.2.1.8",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "."
   }

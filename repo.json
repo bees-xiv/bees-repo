@@ -211,7 +211,7 @@
     "Description": "Plugin to display Cactbot Raidboss info as Dalamud menus.",
     "InternalName": "CactusWatcher",
     "AssemblyVersion": "1.0.0.10",
-    "RepoUrl": "https://codeberg.org/joshua-software-dev/CactusWatcher",
+    "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "IsTestingExclusive": false,
@@ -220,7 +220,7 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/CactusWatcher.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/CactusWatcher.zip",
-    "IconUrl": "https://codeberg.org/joshua-software-dev/CactusWatcher/raw/branch/master/deps/img/icon.png",
+    "IconUrl": "",
     "Changelog": "Update for 7.4, API 14"
   },
   {
@@ -927,6 +927,24 @@
     "Changelog": "- Fixed some compatibility issues",
     "TestingDalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
+  },
+  {
+    "Author": "veyn, croizat",
+    "Name": "V(ery) Island [Bees]",
+    "Punchline": "Automate island sanctuary activities",
+    "Description": "Automate gathering, workshop assignments, etc.",
+    "Tags": [],
+    "InternalName": "visland",
+    "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1769248673,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/visland.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/visland.zip",
+    "AssemblyVersion": "0.0.0.141",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
   },
   {
     "Author": "SheepGoMeh",
