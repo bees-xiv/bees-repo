@@ -93,7 +93,7 @@
   },
   {
     "name": "Glamourer",
-    "version": "0.0.0.0",
+    "version": "1.5.1.8",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer"
   },
@@ -181,13 +181,13 @@
   },
   {
     "name": "NoComms",
-    "version": "1.2.0.1",
+    "version": "0.0.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
   {
     "name": "NOTED",
-    "version": "1.7.0.0",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "NOTED"
   },
@@ -212,7 +212,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "0.0.0.0",
+    "version": "1.5.1.13",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
