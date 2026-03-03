@@ -784,7 +784,7 @@
     "Punchline": "Runtime mod loader and manager.",
     "Description": "Runtime mod loader and manager.",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "1.5.1.13",
+    "AssemblyVersion": "1.5.1.14",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
