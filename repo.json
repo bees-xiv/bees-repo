@@ -527,14 +527,13 @@
     "InternalName": "LazyLoot",
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
     "DownloadCount": 69696969,
-    "LastUpdate": 1766319602,
+    "LastUpdate": 1769259115,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/LazyLoot.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/LazyLoot.zip",
-    "AssemblyVersion": "5.3.2.7",
+    "AssemblyVersion": "5.3.2.9",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
-    "Changelog": "- 7.4",
-    "TestingDalamudApiLevel": "14",
+    "Changelog": "Small improvement to the add item and add duty buttons for custom user restrictions.",
     "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
   },
   {
