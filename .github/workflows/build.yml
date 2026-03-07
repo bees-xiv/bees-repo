@@ -68,8 +68,8 @@ jobs:
           if [[ "${{ github.event.inputs.rebuild_all }}" == "true" ]]; then
             rebuild_arg="--rebuild-all"
           fi
+          exit_code=0
           bun bees-build/build.ts $rebuild_arg || exit_code=$?
-          : "${exit_code:=0}"
           if [ "$exit_code" -eq 69 ]; then
             echo "skip_build=true" >> $GITHUB_ENV
             exit 0
