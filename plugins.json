@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.49",
+    "version": "4.0.4.50",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -273,7 +273,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.3.19",
+    "version": "1.0.3.20",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
