@@ -118,6 +118,12 @@
     "projectRoot": "."
   },
   {
+    "name": "ICE",
+    "version": "0.0.0.0",
+    "repo": "https://puni.sh/api/repository/ice",
+    "projectRoot": "./ICE"
+  },
+  {
     "name": "IINACT",
     "version": "2.10.0.4",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
@@ -212,7 +218,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.5.1.14",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
@@ -251,6 +257,13 @@
     "version": "3.9.0.23",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
+  },
+  {
+    "name": "UnloadErrorFuckOff",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+    "projectRoot": "./UnloadErrorFuckOff",
+    "apiLevel": 14
   },
   {
     "name": "vnavmesh",
