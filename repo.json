@@ -471,6 +471,32 @@
     "_Dip17Channel": "testing-live"
   },
   {
+    "Author": "Ice",
+    "Name": "Ice's Cosmic Exploration (ICE) [Bees]",
+    "Punchline": "Welcome to, the dark side of, the MOOOON",
+    "Description": "The one-stop shop to your cosmic exploration needs! This plugin is meant to be a collective source of being able to grind out your gather and crafter relics, while also being able to help grind out the score to 500k on each class for that sleek black mech that you want ~.\n\n- Has the ability to re-roll missions for you until you get the desired one that you want to farm\n- Crafters can be fully automated with support of artisan. \n- Fisher can also be fully automated with the support of AutoHook and Navmesh\n- Botanist/Miner only need Navmesh, thanks to having gathering built in directly to the plugin <3. \n- Setup what items you want to buy from the shop for cosmocredits, or spend your planetary tokens on the cosmowheel of fortune!",
+    "Tags": [
+      "Gatherers"
+    ],
+    "InternalName": "ICE",
+    "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1773106136,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ICE.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ICE.zip",
+    "AssemblyVersion": "0.0.76.21",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "- Fixed the issue where there we're some classes that ignored the time limit existing. \n- Fishing will now use food\n- Aetheryes are now trackable via world stage, so on the off chance that one gets added while other worlds are behind, should now respect -> allow for usage in the world\n- Added a log message to say how many you have on the current planet + what planet you're on, that way in case you're wondering why it isn't doing missions, maybe this will help us all (and my sanity)",
+    "IconUrl": "https://s3.puni.sh/media/plugin/70/icon-6mts8v53o8x.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/70/image-48mo2sqihqq.png",
+      "https://s3.puni.sh/media/plugin/70/image-qvicotsqoah.png",
+      "https://s3.puni.sh/media/plugin/70/image-n7yejk60hc.png",
+      "https://s3.puni.sh/media/plugin/70/image-tnps9neyhx.png"
+    ]
+  },
+  {
     "Author": "Usagi",
     "Name": "IINACT [Bees]",
     "InternalName": "IINACT",
@@ -926,6 +952,24 @@
     "Changelog": "- Update libs",
     "TestingDalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "UnloadErrorFuckOff [Bees]",
+    "Punchline": "[For plugin developers only] A plugin that clears off load and unload errors.",
+    "Description": "[For plugin developers only] A plugin that clears off load and unload errors. Plugin development is made easy once again!",
+    "Changelog": "- 7.4",
+    "InternalName": "UnloadErrorFuckOff",
+    "AssemblyVersion": "1.0.0.9",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/NightmareXIV/UnloadErrorFuckOff",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 69696969,
+    "LastUpdate": 1766027177,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/UnloadErrorFuckOff.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/UnloadErrorFuckOff.zip",
+    "SupportsProfiles": true
   },
   {
     "Author": "veyn, croizat",

@@ -119,7 +119,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.0.0",
+    "version": "0.0.76.21",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
@@ -218,7 +218,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "0.0.0.0",
+    "version": "1.5.1.14",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
@@ -260,7 +260,7 @@
   },
   {
     "name": "UnloadErrorFuckOff",
-    "version": "0.0.0.0",
+    "version": "1.0.0.9",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./UnloadErrorFuckOff",
     "apiLevel": 14
