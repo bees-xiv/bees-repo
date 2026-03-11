@@ -106,7 +106,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "41.1.7",
+    "version": "41.1.8",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -125,7 +125,7 @@
   },
   {
     "name": "IINACT",
-    "version": "2.10.0.4",
+    "version": "2.10.0.5",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
@@ -218,7 +218,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.5.1.14",
+    "version": "1.5.1.15",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
