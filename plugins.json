@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.21.9",
+    "version": "0.4.22.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -254,7 +254,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.0.23",
+    "version": "3.9.0.24",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
