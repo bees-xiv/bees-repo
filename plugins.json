@@ -99,7 +99,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.51.0",
+    "version": "1.51.1",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
