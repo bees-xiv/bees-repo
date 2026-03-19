@@ -218,7 +218,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "0.0.0.0",
+    "version": "1.5.1.15",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
