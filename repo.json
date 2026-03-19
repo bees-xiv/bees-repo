@@ -809,7 +809,7 @@
     "Punchline": "Runtime mod loader and manager.",
     "Description": "Runtime mod loader and manager.",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "1.5.1.15",
+    "AssemblyVersion": "1.5.1.16",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
