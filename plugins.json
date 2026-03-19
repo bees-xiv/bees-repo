@@ -254,7 +254,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.0.24",
+    "version": "3.9.0.25",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
