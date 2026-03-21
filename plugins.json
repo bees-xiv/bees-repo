@@ -259,6 +259,12 @@
     "projectRoot": "./Splatoon"
   },
   {
+    "name": "Sundouleia",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json",
+    "projectRoot": "./Sundouleia"
+  },
+  {
     "name": "UnloadErrorFuckOff",
     "version": "1.0.0.9",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
