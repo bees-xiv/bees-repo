@@ -248,7 +248,7 @@
   },
   {
     "name": "Snowcloak",
-    "version": "2.4.4",
+    "version": "2.5.0",
     "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
     "projectRoot": "./Snowcloak"
   },
