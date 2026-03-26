@@ -78,6 +78,12 @@
     "projectRoot": "./CustomizePlus"
   },
   {
+    "name": "DailyDuty",
+    "version": "0.0.0.0",
+    "repo": "d17",
+    "projectRoot": "./DailyDuty"
+  },
+  {
     "name": "DisPlacePlugin",
     "version": "7.4.1",
     "repo": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
