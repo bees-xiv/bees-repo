@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.23.1",
+    "version": "0.4.24.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -79,7 +79,7 @@
   },
   {
     "name": "DailyDuty",
-    "version": "0.0.0.0",
+    "version": "6.0.1.1",
     "repo": "d17",
     "projectRoot": "./DailyDuty"
   },
@@ -98,7 +98,7 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.6.0.0",
+    "version": "1.6.0.1",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer"
   },
@@ -218,7 +218,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.6.0.1",
+    "version": "1.6.0.2",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra"
   },
