@@ -519,27 +519,6 @@
     "DownloadCount": 69696969
   },
   {
-    "Author": "sourpuh",
-    "Name": "Interjection [Bees]",
-    "Punchline": "Better interrupt and enmity tracking",
-    "Description": "Show which casts are interruptible in the Enemy List. Color enmity gems when enemies are targeting other tanks.",
-    "Tags": [],
-    "InternalName": "Interjection",
-    "RepoUrl": "https://github.com/sourpuh/ffxiv_interjection",
-    "DownloadCount": 69696969,
-    "LastUpdate": 1753467986,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Interjection.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Interjection.zip",
-    "AssemblyVersion": "0.0.0.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "14",
-    "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/63/icon-ogeu0gg4g6h.png",
-    "ImageUrls": [
-      "https://s3.puni.sh/media/plugin/63/image-w9qpjb1phr.png"
-    ]
-  },
-  {
     "Author": "Taurenkey, Gid, NightmareXIV",
     "Name": "LazyLoot [Bees]",
     "Punchline": "Dungeon Loot but Lazy.",
