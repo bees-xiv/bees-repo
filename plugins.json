@@ -87,7 +87,6 @@
     "name": "GatherbuddyReborn",
     "version": "7.4.5.0",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
-    "git": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"
   },
@@ -130,23 +129,10 @@
     "projectRoot": "./IINACT"
   },
   {
-    "name": "Interjection",
-    "version": "0.0.0.3",
-    "repo": "https://puni.sh/api/repository/sourpuh",
-    "projectRoot": ".",
-    "apiLevel": "14"
-  },
-  {
     "name": "LazyLoot",
     "version": "5.3.2.9",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./LazyLoot",
-    "submodules": {
-      "PunishLib": {
-        "url": "https://github.com/PunishXIV/PunishLib",
-        "commit": "4d1cd3d7fabe47f25c16a43704e51e89004a1354"
-      }
-    }
+    "projectRoot": "./LazyLoot"
   },
   {
     "name": "Lifestream",
@@ -165,7 +151,8 @@
     "version": "0.2.4.1",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
-    "apiLevel": "14"
+    "apiLevel": "14",
+    "TODO": "needs manual api level update every time cuz this fucker doesn't have the field"
   },
   {
     "name": "Moodles",
@@ -201,7 +188,14 @@
     "name": "Orbwalker",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Orbwalker"
+    "projectRoot": "./Orbwalker",
+    "TODO": "remove submodule overwrite after api15",
+    "submodules": {
+      "ECommons": {
+        "url": "https://github.com/NightmareXIV/ECommons",
+        "commit": "4da624de304ce68cf7c75f96e46020d182b9a8d3"
+      }
+    }
   },
   {
     "name": "PalacePal",
