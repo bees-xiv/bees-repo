@@ -311,7 +311,7 @@
     "Name": "DailyDuty [Bees]",
     "Punchline": "Easily Track Daily and Weekly tasks",
     "Description": "Automatically track and complete many daily and weekly tasks",
-    "Changelog": "Potential System Stability Improvements, (might cause issues, if anything weird happens, please report it)\r\n\r\nFix reset messages being blank\r\n\r\nRemoved module config tab, its now just one bigger window\r\n\r\nFix hunt marks having Challenge Log link",
+    "Changelog": "Fix todolist and timers not showing sometimes",
     "TestingChangelog": "Potential fixes for users of the penguin variety.",
     "Tags": [
       "utility",
@@ -323,14 +323,14 @@
     ],
     "CategoryTags": null,
     "InternalName": "DailyDutyBees",
-    "AssemblyVersion": "6.0.1.1",
+    "AssemblyVersion": "6.0.1.4",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
     "DownloadCount": 69696969,
-    "LastUpdate": 1772914798,
+    "LastUpdate": 1775050190,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/DailyDuty.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/DailyDuty.zip",
     "LoadPriority": 0,
@@ -478,28 +478,6 @@
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip"
   },
   {
-    "Author": "Haselnussbomber",
-    "Name": "HaselTweaks [Bees]",
-    "InternalName": "HaselTweaks",
-    "AssemblyVersion": "41.1.9",
-    "Description": "Keep on tweaking.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "DalamudApiLevel": 14,
-    "LoadRequiredState": 1,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
-    "Punchline": "A collection of quality of life tweaks.",
-    "AcceptsFeedback": true,
-    "Changelog": "- Updated ClientStructs for Patch 7.45 HotFix 2.",
-    "DownloadCount": 69696969,
-    "LastUpdate": 1774375573,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip"
-  },
-  {
     "Author": "Caraxi",
     "Name": "Honorific [Bees]",
     "Punchline": "Customized titles for you and yours.",
@@ -527,6 +505,32 @@
     "FeedbackWebhook": null,
     "_isDip17Plugin": true,
     "_Dip17Channel": "testing-live"
+  },
+  {
+    "Author": "Ice",
+    "Name": "Ice's Cosmic Exploration (ICE) [Bees]",
+    "Punchline": "Welcome to, the dark side of, the MOOOON",
+    "Description": "The one-stop shop to your cosmic exploration needs! This plugin is meant to be a collective source of being able to grind out your gather and crafter relics, while also being able to help grind out the score to 500k on each class for that sleek black mech that you want ~.\n\n- Has the ability to re-roll missions for you until you get the desired one that you want to farm\n- Crafters can be fully automated with support of artisan. \n- Fisher can also be fully automated with the support of AutoHook and Navmesh\n- Botanist/Miner only need Navmesh, thanks to having gathering built in directly to the plugin <3. \n- Setup what items you want to buy from the shop for cosmocredits, or spend your planetary tokens on the cosmowheel of fortune!",
+    "Tags": [
+      "Gatherers"
+    ],
+    "InternalName": "ICE",
+    "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1774580494,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ICE.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ICE.zip",
+    "AssemblyVersion": "0.0.76.26",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "- Fixed an issue where it wasn't checking the proper item for the dark matter check, it's now properly checking for grade 8 dark matter... instead of some bum fuck item (thanks dyslexia, you're great :fguns:",
+    "IconUrl": "https://s3.puni.sh/media/plugin/70/icon-6mts8v53o8x.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/70/image-48mo2sqihqq.png",
+      "https://s3.puni.sh/media/plugin/70/image-qvicotsqoah.png",
+      "https://s3.puni.sh/media/plugin/70/image-n7yejk60hc.png",
+      "https://s3.puni.sh/media/plugin/70/image-tnps9neyhx.png"
+    ]
   },
   {
     "Author": "Usagi",
