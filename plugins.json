@@ -98,14 +98,14 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.6.0.4",
+    "version": "1.6.0.5",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer",
     "branch": "stable"
   },
   {
     "name": "HaselDebug",
-    "version": "1.52.0",
+    "version": "1.53.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
