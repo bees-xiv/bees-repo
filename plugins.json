@@ -125,7 +125,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.76.30",
+    "version": "0.0.76.31",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
@@ -163,7 +163,7 @@
   },
   {
     "name": "Moodles",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
