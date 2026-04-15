@@ -706,25 +706,6 @@
     "LastUpdate": "1769615275"
   },
   {
-    "Name": "NoComms [Bees]",
-    "InternalName": "NoComms",
-    "Author": "bees-xiv",
-    "Punchline": "",
-    "Description": "",
-    "Tags": [],
-    "AssemblyVersion": "1.2.0.1",
-    "RepoUrl": "",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
-    "IsTestingExclusive": "False",
-    "DownloadCount": 69696969,
-    "LastUpdate": 1737410950,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NoComms.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/NoComms.zip",
-    "IconUrl": ""
-  },
-  {
     "Author": "Tischel",
     "Name": "NOTED [Bees]",
     "Punchline": "Duty-specific notes!",
