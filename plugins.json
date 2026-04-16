@@ -220,7 +220,7 @@
   },
   {
     "name": "ReAction",
-    "version": "1.3.4.3",
+    "version": "1.3.5.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
