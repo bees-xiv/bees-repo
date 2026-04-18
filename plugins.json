@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.51",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -282,7 +282,7 @@
   },
   {
     "name": "visland",
-    "version": "0.0.0.141",
+    "version": "0.0.0.142",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
