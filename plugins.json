@@ -219,10 +219,10 @@
     "branch": "stable"
   },
   {
-    "name": "QuestTracker",
-    "version": "0.0.0.1",
+    "name": "QuestTrackerBees",
+    "version": "0.0.0.0",
     "repo": "bees-build",
-    "projectRoot": "./QuestTracker"
+    "projectRoot": "."
   },
   {
     "name": "ReAction",
