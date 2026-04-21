@@ -822,7 +822,7 @@
   },
   {
     "Name": "QuestTracker [Bees]",
-    "InternalName": "QuestTracker",
+    "InternalName": "QuestTrackerBees",
     "Author": "bees-xiv",
     "Punchline": "",
     "Description": "",
@@ -835,8 +835,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 69696969,
     "LastUpdate": 1737410950,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/QuestTracker.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/QuestTracker.zip",
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/QuestTrackerBees.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/QuestTrackerBees.zip",
     "IconUrl": ""
   },
   {
