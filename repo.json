@@ -821,6 +821,25 @@
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
   },
   {
+    "Name": "QuestTracker [Bees]",
+    "InternalName": "QuestTracker",
+    "Author": "bees-xiv",
+    "Punchline": "",
+    "Description": "",
+    "Tags": [],
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "IsTestingExclusive": "False",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1737410950,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/QuestTracker.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/QuestTracker.zip",
+    "IconUrl": ""
+  },
+  {
     "Author": "UnknownX",
     "Name": "ReAction [Bees]",
     "Punchline": "QoL for the battle system.",
