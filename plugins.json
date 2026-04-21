@@ -219,6 +219,12 @@
     "branch": "stable"
   },
   {
+    "name": "QuestTracker",
+    "version": "0.0.0.0",
+    "repo": "bees-build",
+    "projectRoot": "./QuestTracker"
+  },
+  {
     "name": "ReAction",
     "version": "1.3.5.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
