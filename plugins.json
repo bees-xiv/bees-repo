@@ -220,7 +220,7 @@
   },
   {
     "name": "QuestTrackerBees",
-    "version": "0.0.0.1",
+    "version": "0.0.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
