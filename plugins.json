@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.25.2",
+    "version": "0.4.25.3",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -137,7 +137,7 @@
   },
   {
     "name": "LazyLoot",
-    "version": "0.0.0.0",
+    "version": "5.3.2.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot"
   },
