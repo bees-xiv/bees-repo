@@ -25,7 +25,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.5.11",
+    "version": "4.5.5.21",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.25.1",
+    "version": "0.4.25.2",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -61,7 +61,7 @@
   },
   {
     "name": "Cammy",
-    "version": "2.1.0.15",
+    "version": "2.1.1.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
