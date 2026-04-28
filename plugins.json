@@ -67,7 +67,7 @@
   },
   {
     "name": "Compass",
-    "version": "0.0.0.0",
+    "version": "1.32.0",
     "repo": "d17",
     "projectRoot": "./Compass"
   },
@@ -155,7 +155,7 @@
   },
   {
     "name": "Marketbuddy",
-    "version": "0.2.4.1",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "projectRoot": "./Marketbuddy",
     "apiLevel": "14",
