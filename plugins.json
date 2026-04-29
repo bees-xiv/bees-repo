@@ -19,13 +19,13 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.46",
+    "version": "5.0.0.49",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
   {
     "name": "AutoRetainer",
-    "version": "4.6.0.1",
+    "version": "4.6.0.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -143,7 +143,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.4.3",
+    "version": "2.5.4.4",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -274,13 +274,13 @@
   },
   {
     "name": "Visibility",
-    "version": "1.1.9.4",
+    "version": "1.1.9.5",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
   {
     "name": "visland",
-    "version": "0.0.0.142",
+    "version": "0.0.0.143",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
@@ -292,7 +292,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.15.0",
+    "version": "1.15.1.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
