@@ -156,10 +156,8 @@
   {
     "name": "Marketbuddy",
     "version": "0.0.0.0",
-    "repo": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
-    "projectRoot": "./Marketbuddy",
-    "apiLevel": "14",
-    "TODO": "needs manual api level update every time cuz this fucker doesn't have the field"
+    "repo": "https://puni.sh/api/plugins",
+    "projectRoot": "./Marketbuddy"
   },
   {
     "name": "Moodles",
@@ -183,20 +181,13 @@
     "name": "NOTED",
     "version": "1.7.0.0",
     "repo": "d17",
-    "projectRoot": "NOTED"
+    "projectRoot": "./NOTED"
   },
   {
     "name": "Orbwalker",
     "version": "1.0.1.9",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Orbwalker",
-    "TODO": "remove submodule overwrite after api15",
-    "submodules": {
-      "ECommons": {
-        "url": "https://github.com/NightmareXIV/ECommons",
-        "commit": "4da624de304ce68cf7c75f96e46020d182b9a8d3"
-      }
-    }
+    "projectRoot": "./Orbwalker"
   },
   {
     "name": "PalacePal",
@@ -249,12 +240,6 @@
     "projectRoot": "."
   },
   {
-    "name": "Snowcloak",
-    "version": "2.5.2",
-    "repo": "https://raw.githubusercontent.com/Eauldane/ElfShelf/refs/heads/main/repo.json",
-    "projectRoot": "./Snowcloak"
-  },
-  {
     "name": "Splatoon",
     "version": "3.9.0.25",
     "repo": "https://puni.sh/api/plugins",
@@ -277,7 +262,8 @@
     "version": "1.0.0.9",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./UnloadErrorFuckOff",
-    "apiLevel": 14
+    "apiLevel": 14,
+    "TODO": "needs manual patch and apilevel"
   },
   {
     "name": "vnavmesh",
