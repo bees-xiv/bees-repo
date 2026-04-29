@@ -25,7 +25,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.5.5.21",
+    "version": "4.6.0.1",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -37,13 +37,13 @@
   },
   {
     "name": "BlackBox",
-    "version": "1.4.0.2",
+    "version": "1.5.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
   {
     "name": "BossMod",
-    "version": "0.4.25.3",
+    "version": "0.4.26.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "CactusWatcher",
-    "version": "1.0.0.10",
+    "version": "1.5.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
@@ -137,13 +137,13 @@
   },
   {
     "name": "LazyLoot",
-    "version": "5.3.2.9",
+    "version": "5.3.3.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot"
   },
   {
     "name": "Lifestream",
-    "version": "2.5.3.20",
+    "version": "2.5.4.3",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -211,7 +211,7 @@
   },
   {
     "name": "QuestTrackerBees",
-    "version": "0.0.0.1",
+    "version": "1.5.0.0",
     "repo": "bees-build",
     "projectRoot": "."
   },
@@ -259,7 +259,7 @@
   },
   {
     "name": "UnloadErrorFuckOff",
-    "version": "0.0.0.0",
+    "version": "1.0.0.9",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./UnloadErrorFuckOff",
     "apiLevel": 15,
@@ -267,7 +267,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.2.9",
+    "version": "1.2.3.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
@@ -292,7 +292,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.14.09",
+    "version": "1.15.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
