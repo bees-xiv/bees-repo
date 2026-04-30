@@ -157,7 +157,8 @@
     "name": "Marketbuddy",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Marketbuddy"
+    "projectRoot": "./Marketbuddy",
+    "git": "https://github.com/PunishXIV/Marketbuddy"
   },
   {
     "name": "Moodles",
