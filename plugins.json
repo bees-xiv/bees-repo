@@ -1,7 +1,7 @@
 [
   {
     "name": "AntiAfkKick-Dalamud",
-    "version": "2.1.0.10",
+    "version": "2.1.0.11",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./AntiAfkKick-Dalamud"
   },
@@ -49,7 +49,7 @@
   },
   {
     "name": "Brio",
-    "version": "0.7.1.1",
+    "version": "0.7.2.0",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
     "projectRoot": "./Brio"
   },
@@ -61,7 +61,7 @@
   },
   {
     "name": "Cammy",
-    "version": "2.1.1.0",
+    "version": "2.1.1.1",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -79,7 +79,7 @@
   },
   {
     "name": "DailyDuty",
-    "version": "6.0.1.9",
+    "version": "6.0.2.2",
     "repo": "d17",
     "projectRoot": "./DailyDuty"
   },
@@ -173,7 +173,7 @@
   },
   {
     "name": "NoClippy",
-    "version": "0.5.0.22",
+    "version": "0.5.0.24",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -217,7 +217,7 @@
   },
   {
     "name": "ReAction",
-    "version": "1.3.5.0",
+    "version": "1.3.5.1",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
