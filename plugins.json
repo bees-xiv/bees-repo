@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.4.55",
+    "version": "4.0.5.1",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.26.0",
+    "version": "0.4.27.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -105,21 +105,21 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.55.0",
+    "version": "1.55.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
   },
   {
     "name": "HaselTweaks",
-    "version": "42.0.0",
+    "version": "42.0.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
   },
   {
     "name": "Honorific",
-    "version": "1.7.4.0",
+    "version": "1.7.5.0",
     "repo": "d17",
     "projectRoot": "."
   },
@@ -131,13 +131,13 @@
   },
   {
     "name": "IINACT",
-    "version": "2.10.1.0",
+    "version": "2.10.1.2",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
   {
     "name": "LazyLoot",
-    "version": "5.3.3.1",
+    "version": "5.3.3.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./LazyLoot"
   },
@@ -155,7 +155,7 @@
   },
   {
     "name": "Marketbuddy",
-    "version": "0.0.0.0",
+    "version": "0.2.4.2",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Marketbuddy",
     "git": "https://github.com/PunishXIV/Marketbuddy"
@@ -180,7 +180,7 @@
   },
   {
     "name": "NOTED",
-    "version": "1.7.0.0",
+    "version": "1.8.0.0",
     "repo": "d17",
     "projectRoot": "./NOTED"
   },
@@ -242,7 +242,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.5",
+    "version": "3.9.1.7",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
@@ -266,7 +266,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.3.0",
+    "version": "1.2.3.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
@@ -285,7 +285,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.4.0",
+    "version": "1.0.4.1",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
@@ -297,7 +297,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.3.1.1",
+    "version": "1.3.1.2",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
