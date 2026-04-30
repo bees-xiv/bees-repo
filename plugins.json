@@ -261,9 +261,7 @@
     "name": "UnloadErrorFuckOff",
     "version": "1.0.0.9",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-    "projectRoot": "./UnloadErrorFuckOff",
-    "apiLevel": 15,
-    "TODO": "needs manual patch and apilevel"
+    "projectRoot": "./UnloadErrorFuckOff"
   },
   {
     "name": "vnavmesh",
