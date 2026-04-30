@@ -161,7 +161,7 @@
   },
   {
     "name": "Moodles",
-    "version": "1.1.2.0",
+    "version": "1.1.3.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "projectRoot": "./Moodles"
   },
@@ -185,7 +185,7 @@
   },
   {
     "name": "Orbwalker",
-    "version": "0.0.0.0",
+    "version": "1.0.1.10",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Orbwalker"
   },
@@ -241,7 +241,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.0.25",
+    "version": "3.9.1.5",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
@@ -259,7 +259,7 @@
   },
   {
     "name": "UnloadErrorFuckOff",
-    "version": "1.0.0.9",
+    "version": "1.0.0.10",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./UnloadErrorFuckOff"
   },
@@ -284,7 +284,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.3.26",
+    "version": "1.0.4.0",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
@@ -296,7 +296,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.3.1.0",
+    "version": "1.3.1.1",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
