@@ -79,7 +79,7 @@
   },
   {
     "name": "DailyDuty",
-    "version": "6.0.2.2",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./DailyDuty"
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "Visibility",
-    "version": "1.1.9.5",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
