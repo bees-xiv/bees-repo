@@ -31,7 +31,7 @@
   },
   {
     "name": "BDTHPlugin",
-    "version": "1.7.3",
+    "version": "1.7.3.1",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "0.4.27.0",
+    "version": "7.5.0.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -91,14 +91,14 @@
   },
   {
     "name": "GatherBuddyReborn",
-    "version": "7.5.0.1",
+    "version": "7.5.0.2",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"
   },
   {
     "name": "Glamourer",
-    "version": "1.6.0.5",
+    "version": "1.6.1.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer",
     "branch": "stable"
@@ -205,7 +205,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.6.0.3",
+    "version": "1.6.1.0",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra",
     "branch": "stable"
@@ -242,7 +242,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.8",
+    "version": "3.9.1.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
