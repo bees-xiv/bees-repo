@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.50",
+    "version": "5.0.0.51",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -31,7 +31,7 @@
   },
   {
     "name": "BDTHPlugin",
-    "version": "1.7.2",
+    "version": "1.7.3",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },
