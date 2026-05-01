@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.303",
+    "version": "0.0.0.304",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -91,7 +91,7 @@
   },
   {
     "name": "GatherBuddyReborn",
-    "version": "7.4.5.0",
+    "version": "7.5.0.1",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"
@@ -224,7 +224,7 @@
   },
   {
     "name": "Saucy",
-    "version": "1.4.2.9",
+    "version": "1.5.1.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
