@@ -67,7 +67,7 @@
   },
   {
     "name": "Compass",
-    "version": "1.32.0",
+    "version": "1.33.1",
     "repo": "d17",
     "projectRoot": "./Compass"
   },
@@ -242,7 +242,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.9",
+    "version": "3.9.1.10",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
