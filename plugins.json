@@ -25,13 +25,13 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.6.0.5",
+    "version": "4.6.0.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
   {
     "name": "BDTHPlugin",
-    "version": "1.7.3.1",
+    "version": "1.7.4.0",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },
@@ -85,7 +85,7 @@
   },
   {
     "name": "DisPlacePlugin",
-    "version": "7.4.1",
+    "version": "7.5.1.0",
     "repo": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
     "projectRoot": "./DisPlacePlugin"
   },
@@ -112,7 +112,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "42.1.1.0",
+    "version": "42.1.2.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -242,7 +242,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.10",
+    "version": "3.9.1.11",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
