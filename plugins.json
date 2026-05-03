@@ -31,7 +31,7 @@
   },
   {
     "name": "BDTHPlugin",
-    "version": "1.7.4.0",
+    "version": "1.7.4.1",
     "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "projectRoot": "./BDTHPlugin"
   },
@@ -125,7 +125,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.76.34",
+    "version": "0.0.77.1",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
