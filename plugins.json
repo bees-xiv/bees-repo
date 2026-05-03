@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.304",
+    "version": "0.0.0.305",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -205,7 +205,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.6.1.4",
+    "version": "1.6.1.5",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra",
     "branch": "stable"
