@@ -401,9 +401,9 @@
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "AssemblyVersion": "7.5.0.3",
+    "AssemblyVersion": "7.5.0.4",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* 7.5 update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/606\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.2...7.5.0.3",
+    "Changelog": "## What's Changed\r\n* 7.5 update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/607\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.3...7.5.0.4",
     "DownloadCount": 69696969
   },
   {
