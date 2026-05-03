@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.5.2",
+    "version": "4.0.5.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -91,7 +91,7 @@
   },
   {
     "name": "GatherBuddyReborn",
-    "version": "7.5.0.4",
+    "version": "7.5.0.5",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"
@@ -199,7 +199,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.4.0",
+    "version": "1.6.4.1",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
