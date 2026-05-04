@@ -229,9 +229,9 @@
     "Name": "Cammy [Bees]",
     "Punchline": "A simple editor for the game's camera settings",
     "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-    "Changelog": "Added advanced free cam controls",
+    "Changelog": "Fix camera resetting to default on zoning (Thanks to Chat Ja)",
     "InternalName": "Cammy",
-    "AssemblyVersion": "2.1.1.1",
+    "AssemblyVersion": "2.1.1.2",
     "RepoUrl": "https://github.com/UnknownX7/Cammy",
     "ApplicableVersion": "any",
     "CategoryTags": [
@@ -246,7 +246,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Cammy.zip",
     "DownloadCount": 69696969,
-    "LastUpdate": "1777512673"
+    "LastUpdate": "1777904465"
   },
   {
     "Author": "Chivalrik",
@@ -520,13 +520,13 @@
     "InternalName": "ICE",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
     "DownloadCount": 69696969,
-    "LastUpdate": 1777865795,
+    "LastUpdate": 1777901871,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ICE.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ICE.zip",
-    "AssemblyVersion": "0.0.77.2",
+    "AssemblyVersion": "0.0.77.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "### 0.77.2 Hotfixes:\n- Fixed an issue where missions would pre-emptively end early (this effected gathering/crafters with timed missions especially). It'll now use the proper clock vs trying to read that stupid timed node\n- Reducable missions will now properly reduce the items to the stardust from whence they game\n- Cosmoshopping/Dronebit shopping SHOULD be fixed now... (I had to pause and update this because the moment I had the thought I realize that I did in fact, almost left it broke LOL)\n  - DO NOTE. DO NOT USE THE DRONE BOX FARMING STILL. Its still borke/cant open it w/o probably causing issues...\n- Cosmoshop now also has the new dyes available to buy\n- Gamba wheel has also depreciated the old dyes and added the new ones in turn\n- Ecoms update... \n- Probably something else but I'm blanking. More updates to come soon tm, just need to get sleep ",
+    "Changelog": "- Fixed an issue with the old shop dyes not being removed from the list, they'll finally be forgotten like that lost lalafel in limsa\n- Disabling auto-cordial usage will now NOT pause pandora's auto-cordial usage (so if you would rather just maintain it there you have the ability to)\n- Saving agenda's -> editing them post will no longer cause it to edit the last saved agenda (this was a pita, but glad it's fixed)\n- Dronebox's seem to be good? Have had no crashes using them",
     "IconUrl": "https://s3.puni.sh/media/plugin/70/icon-6mts8v53o8x.png",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/70/image-48mo2sqihqq.png",

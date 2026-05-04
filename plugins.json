@@ -61,7 +61,7 @@
   },
   {
     "name": "Cammy",
-    "version": "2.1.1.1",
+    "version": "2.1.1.2",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -125,7 +125,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.77.2",
+    "version": "0.0.77.3",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
