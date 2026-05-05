@@ -892,20 +892,24 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
   },
   {
-    "Author": "Glyceri",
-    "Name": "Silence no More [Bees]",
-    "InternalName": "SilenceNoMore",
-    "Description": "Shows whispers normally blocked during duties.",
-    "ApplicableVersion": "any",
+    "Author": "glyceri",
+    "Name": "Silence No More [Bees]",
     "Punchline": "Shows whispers normally blocked during duties.",
+    "Description": "Shows whispers normally blocked during duties.",
+    "Tags": [
+      "Duty",
+      "Chat"
+    ],
+    "InternalName": "SilenceNoMore",
     "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
-    "AcceptsFeedback": false,
-    "DalamudApiLevel": 14,
-    "AssemblyVersion": "1.3.0.1",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1777711191,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SilenceNoMore.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SilenceNoMore.zip",
-    "Changelog": "Updated to API14.",
-    "DownloadCount": 69696969
+    "AssemblyVersion": "1.4.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "API15\n\nIcon by: Leonhart"
   },
   {
     "Author": "Caraxi",
