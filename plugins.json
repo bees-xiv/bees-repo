@@ -91,7 +91,7 @@
   },
   {
     "name": "GatherBuddyReborn",
-    "version": "7.5.0.5",
+    "version": "7.5.0.6",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"

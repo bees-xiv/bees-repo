@@ -401,9 +401,9 @@
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "AssemblyVersion": "7.5.0.5",
+    "AssemblyVersion": "7.5.0.6",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Fixed manifest issue and updated publish workflow by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/608\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/608\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.4...7.5.0.5",
+    "Changelog": "## What's Changed\r\n* Context Menu Toggle, Crafting List Quantity / Skip / Remove visibility, Multi-Item aesthetic, Wordings by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/609\r\n* Feature/add all filtered to autogather by @italicninja in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/583\r\n* Fishing updates by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/611\r\n\r\n## New Contributors\r\n* @italicninja made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/583\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.5...7.5.0.6",
     "DownloadCount": 69696969
   },
   {
