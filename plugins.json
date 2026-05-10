@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.5.3",
+    "version": "4.0.5.5",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -279,7 +279,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.4.2",
+    "version": "1.0.4.5",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
@@ -291,7 +291,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.4.0.4",
+    "version": "1.4.0.5",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
