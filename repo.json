@@ -401,9 +401,9 @@
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "AssemblyVersion": "7.5.0.7",
+    "AssemblyVersion": "7.5.0.8",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Added Discord badge to README.md by @Nonunon in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/610\r\n* Fishing updates by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/613\r\n\r\n## New Contributors\r\n* @Nonunon made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/610\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.6...7.5.0.7",
+    "Changelog": "## What's Changed\r\n* Config rework by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/614\r\n* Upstream clear by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/615\r\n* CurrencyFix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/616\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.7...7.5.0.8",
     "DownloadCount": 69696969
   },
   {
