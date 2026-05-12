@@ -510,6 +510,29 @@
     "_Dip17Channel": "testing-live"
   },
   {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "Hyperborea [Bees]",
+    "Punchline": "What if we GPosed in the Mordion Gaol?",
+    "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+    "Tags": [
+      "gpose"
+    ],
+    "InternalName": "Hyperborea",
+    "RepoUrl": "https://github.com/kawaii/Hyperborea",
+    "DownloadCount": 69696969,
+    "LastUpdate": 1777529233,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Hyperborea.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Hyperborea.zip",
+    "AssemblyVersion": "1.0.0.34",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- 7.5",
+    "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/45/image-qh8re4eb0f.png"
+    ]
+  },
+  {
     "Author": "Ice",
     "Name": "Ice's Cosmic Exploration (ICE) [Bees]",
     "Punchline": "Welcome to, the dark side of, the MOOOON",
@@ -555,6 +578,24 @@
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/IINACT.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/IINACT.zip",
+    "DownloadCount": 69696969
+  },
+  {
+    "Author": "Laci Synchroni Team and Contributors",
+    "Name": "Laci Synchroni [Bees]",
+    "Punchline": "Let others see you as you see yourself.",
+    "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
+    "InternalName": "LaciSynchroni",
+    "AssemblyVersion": "2.0.12.0",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/LaciSynchroni/client",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "LastUpdate": 1778425402,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/LaciSynchroni.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/LaciSynchroni.zip",
+    "IconUrl": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/images/icon.png",
     "DownloadCount": 69696969
   },
   {
@@ -933,31 +974,6 @@
     "Changelog": "- Update for 7.5h",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
-  },
-  {
-    "Author": "Cordelia",
-    "Name": "Sundouleia [Bees]",
-    "InternalName": "Sundouleia",
-    "AssemblyVersion": "0.5.4.1",
-    "Punchline": "A fresh approach to datasync, placed through a different lens, free of constraint.",
-    "Description": "Handled with care. Always careful of the impacts our choices make, and how they affect the future ahead of us.",
-    "RepoUrl": "https://github.com/Sundouleia/client",
-    "Tags": [
-      "Death Stranding",
-      "Alteration",
-      "Visual",
-      "Transfer",
-      "Appearance",
-      "CK",
-      "Sundouleia"
-    ],
-    "DalamudApiLevel": 14,
-    "LoadPriority": 69,
-    "DownloadCount": 69696969,
-    "IconUrl": "https://raw.githubusercontent.com/Sundouleia/repo/main/Images/icon.png",
-    "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Sundouleia.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Sundouleia.zip"
   },
   {
     "Author": "Nadya",

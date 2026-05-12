@@ -125,7 +125,7 @@
   },
   {
     "name": "Hyperborea",
-    "version": "0.0.0.0",
+    "version": "1.0.0.34",
     "repo": "https://puni.sh/api/repository/kawaii",
     "projectRoot": "./Hyperborea"
   },
@@ -143,7 +143,7 @@
   },
   {
     "name": "LaciSynchroni",
-    "version": "0.0.0.0",
+    "version": "2.0.12.0",
     "repo": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json",
     "projectRoot": "./LaciSynchroni"
   },
