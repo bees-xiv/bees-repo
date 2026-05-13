@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.0.8",
+    "version": "7.5.0.9",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -112,7 +112,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "44.0.0.0",
+    "version": "44.0.1.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -131,7 +131,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.77.4",
+    "version": "0.0.77.5",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
