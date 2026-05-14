@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.307",
+    "version": "0.0.0.310",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -131,7 +131,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.77.5",
+    "version": "0.0.77.7",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
