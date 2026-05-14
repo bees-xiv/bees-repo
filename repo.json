@@ -401,9 +401,9 @@
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "AssemblyVersion": "7.5.0.9",
+    "AssemblyVersion": "7.5.0.10",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* AbilityUsage Fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/621\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.8...7.5.0.9",
+    "Changelog": "## What's Changed\r\n* Collectable rework by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/623\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.9...7.5.0.10",
     "DownloadCount": 69696969
   },
   {
@@ -925,13 +925,13 @@
     "InternalName": "SilenceNoMore",
     "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
     "DownloadCount": 69696969,
-    "LastUpdate": 1777711191,
+    "LastUpdate": 1778738818,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SilenceNoMore.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/SilenceNoMore.zip",
-    "AssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.4.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "API15\n\nIcon by: Leonhart"
+    "Changelog": "API16=5"
   },
   {
     "Author": "Caraxi",
