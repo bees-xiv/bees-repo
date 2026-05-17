@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.5.7",
+    "version": "4.0.5.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -266,7 +266,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.3.2",
+    "version": "1.2.3.3",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
@@ -285,7 +285,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.4.5",
+    "version": "1.0.4.6",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
