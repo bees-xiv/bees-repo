@@ -224,7 +224,7 @@
   },
   {
     "name": "PortraitStealer",
-    "version": "0.0.0.0",
+    "version": "0.0.0.6",
     "repo": "https://raw.githubusercontent.com/BeSlightly/PortraitStealer2/main/repo.json",
     "projectRoot": "./PortraitStealer"
   },
