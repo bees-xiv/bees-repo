@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.0.11",
+    "version": "7.5.0.12",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -73,7 +73,7 @@
   },
   {
     "name": "CustomizePlus",
-    "version": "2.2.0.1",
+    "version": "2.2.0.2",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
     "projectRoot": "./CustomizePlus"
   },
@@ -254,7 +254,7 @@
   },
   {
     "name": "TidyChat",
-    "version": "2.3.1.1",
+    "version": "2.3.1.2",
     "repo": "d17",
     "projectRoot": "./TidyChat"
   },
