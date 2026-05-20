@@ -131,7 +131,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.77.12",
+    "version": "0.0.77.13",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
@@ -211,7 +211,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.4.1",
+    "version": "1.6.4.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
