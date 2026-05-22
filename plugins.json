@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.0.13",
+    "version": "7.5.0.15",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -236,7 +236,7 @@
   },
   {
     "name": "Saucy",
-    "version": "1.5.1.0",
+    "version": "1.5.1.1",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
