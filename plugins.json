@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "5.0.0.51",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -112,7 +112,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "45.0.2.0",
+    "version": "46.0.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -236,7 +236,7 @@
   },
   {
     "name": "Saucy",
-    "version": "1.5.1.4",
+    "version": "1.5.1.5",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
