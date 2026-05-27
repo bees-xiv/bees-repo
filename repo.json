@@ -401,9 +401,9 @@
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "AssemblyVersion": "7.5.0.11",
+    "AssemblyVersion": "7.5.0.12",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-    "Changelog": "## What's Changed\r\n* Allagan Plugin gates by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/627\r\n* Shadow Wizard Crafting Gang: \"We love making gil\" by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/625\r\n* Mob tracking by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/628\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.10...7.5.0.11",
+    "Changelog": "## What's Changed\r\n* Gbr scaling by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/637\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.11...7.5.0.12",
     "DownloadCount": 69696969
   },
   {
@@ -688,7 +688,7 @@
     "AcceptsFeedback": false,
     "DownloadCount": 69696969,
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "1.1.3.4",
+    "AssemblyVersion": "1.1.3.5",
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Moodles.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Moodles.zip",
     "IconUrl": "https://raw.githubusercontent.com/kawaii/Moodles/main/images/icon.png",
