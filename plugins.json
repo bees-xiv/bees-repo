@@ -105,7 +105,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.59.0.0",
+    "version": "1.59.1.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -303,7 +303,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.0.6",
+    "version": "1.5.1.0",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
