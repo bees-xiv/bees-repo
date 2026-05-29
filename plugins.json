@@ -98,7 +98,7 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.6.1.6",
+    "version": "1.6.1.7",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer",
     "branch": "stable"
@@ -303,7 +303,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.1.0",
+    "version": "1.5.1.1",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
