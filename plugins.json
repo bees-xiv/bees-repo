@@ -90,6 +90,12 @@
     "projectRoot": "./DisPlacePlugin"
   },
   {
+    "name": "ProjectGagSpeak",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
+    "projectRoot": "./ProjectGagSpeak"
+  },
+  {
     "name": "GatherBuddyReborn",
     "version": "7.5.0.13",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
