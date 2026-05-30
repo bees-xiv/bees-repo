@@ -659,6 +659,30 @@
     "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png"
   },
   {
+    "Author": "Cordelia, AndrielChaoti",
+    "Name": "Loci [Bees]",
+    "InternalName": "Loci",
+    "AssemblyVersion": "0.1.3.6",
+    "Punchline": "Custom status effects for players and companions alike!",
+    "Description": "An inclusive and extensive custom status effect manager. Apply them to targets, group custom statuses with presets, or apply them under conditional events.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/CordeliaMist/Loci",
+    "IconUrl": "https://raw.githubusercontent.com/CordeliaMist/Loci/main/Assets/icon_square.png",
+    "Tags": [
+      "Custom Status",
+      "Effects",
+      "Companion",
+      "Vfx",
+      "Customization",
+      "Character",
+      "Appearance"
+    ],
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Loci.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Loci.zip",
+    "DownloadCount": 69696969
+  },
+  {
     "Author": "Chalkos, NightmareXIV",
     "Name": "Marketbuddy [Bees]",
     "Punchline": "Less clicks, more gil!",
@@ -676,25 +700,6 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5"
-  },
-  {
-    "Author": "kawaii, Glyceri, Minmoose",
-    "Name": "Moodles [Bees]",
-    "InternalName": "Moodles",
-    "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
-    "ApplicableVersion": "any",
-    "Punchline": "Crippling depression now in the form of a debuff, kupo!",
-    "RepoUrl": "https://github.com/kawaii/Moodles",
-    "AcceptsFeedback": false,
-    "DownloadCount": 69696969,
-    "DalamudApiLevel": 15,
-    "AssemblyVersion": "1.1.3.5",
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Moodles.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Moodles.zip",
-    "IconUrl": "https://raw.githubusercontent.com/kawaii/Moodles/main/images/icon.png",
-    "Tags": [
-      "Sea Of Stars"
-    ]
   },
   {
     "Author": "jukka",
