@@ -25,7 +25,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.6.1.0",
+    "version": "4.6.1.2",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -211,7 +211,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.4.3",
+    "version": "1.6.4.4",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
@@ -236,7 +236,7 @@
   },
   {
     "name": "Saucy",
-    "version": "1.6.0.2",
+    "version": "2.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
@@ -303,7 +303,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.1.2",
+    "version": "1.5.1.5",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
