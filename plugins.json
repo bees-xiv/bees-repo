@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.0.22",
+    "version": "7.5.0.23",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -118,7 +118,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "47.1.0.0",
+    "version": "47.1.1.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
