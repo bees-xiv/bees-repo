@@ -118,7 +118,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "47.1.1.0",
+    "version": "47.2.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -143,7 +143,7 @@
   },
   {
     "name": "IINACT",
-    "version": "2.10.1.4",
+    "version": "2.10.2.0",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
@@ -260,7 +260,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.14",
+    "version": "3.9.1.15",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
@@ -309,7 +309,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.1.8",
+    "version": "1.5.1.10",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
