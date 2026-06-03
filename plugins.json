@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.5.10",
+    "version": "4.0.5.11",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -309,7 +309,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.1.10",
+    "version": "1.5.1.14",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
