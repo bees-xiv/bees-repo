@@ -137,7 +137,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.77.13",
+    "version": "0.0.78.4",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
