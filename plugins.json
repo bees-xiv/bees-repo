@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.0.25",
+    "version": "7.5.0.26",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -79,7 +79,7 @@
   },
   {
     "name": "DailyDuty",
-    "version": "0.0.0.0",
+    "version": "6.0.2.3",
     "repo": "d17",
     "projectRoot": "./DailyDuty"
   },
@@ -242,7 +242,7 @@
   },
   {
     "name": "Saucy",
-    "version": "1.6.0.2",
+    "version": "1.6.0.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
@@ -260,7 +260,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.15",
+    "version": "3.9.1.17",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
