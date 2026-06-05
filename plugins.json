@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.5.11",
+    "version": "4.0.5.13",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -260,7 +260,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.18",
+    "version": "3.9.1.19",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
