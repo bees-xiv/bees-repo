@@ -149,7 +149,7 @@
   },
   {
     "name": "LaciSynchroni",
-    "version": "2.0.14.0",
+    "version": "2.0.15.0",
     "repo": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json",
     "projectRoot": "./LaciSynchroni"
   },
@@ -260,7 +260,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.19",
+    "version": "3.9.1.20",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
