@@ -962,14 +962,13 @@
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "DownloadCount": 69696969,
-    "LastUpdate": 1780507365,
+    "LastUpdate": 1780791910,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
-    "AssemblyVersion": "1.6.0.3",
+    "AssemblyVersion": "2.1.0.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "add sanity check for Out on a Limb, Triple Triad and Cuff a cur",
-    "TestingDalamudApiLevel": "15",
+    "Changelog": "add choice for mount for Triple Triad navigation",
     "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
