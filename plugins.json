@@ -242,7 +242,7 @@
   },
   {
     "name": "Saucy",
-    "version": "2.1.0.3",
+    "version": "2.1.0.4",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
@@ -260,7 +260,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.1.20",
+    "version": "3.9.1.26",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
