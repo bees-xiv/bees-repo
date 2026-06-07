@@ -962,13 +962,13 @@
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "DownloadCount": 69696969,
-    "LastUpdate": 1780791910,
+    "LastUpdate": 1780822446,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
-    "AssemblyVersion": "2.1.0.2",
+    "AssemblyVersion": "2.1.0.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "add choice for mount for Triple Triad navigation",
+    "Changelog": "fix mini cactpot getting stuck on yes / no\nfix quest check for GC NPC",
     "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
