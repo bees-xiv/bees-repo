@@ -962,13 +962,13 @@
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "DownloadCount": 69696969,
-    "LastUpdate": 1780865559,
+    "LastUpdate": 1780912488,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
-    "AssemblyVersion": "2.1.0.6",
+    "AssemblyVersion": "2.1.0.7",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "Out on a Limb / Cuff-a-Cur / Triple Triad\n\nNo more accidental swaps. If you hit Enable on Cuff while standing at the Out on a Limb machine, or Triad while there's no NPC nearby, you'll get a warning (\"No Cuff-a-Cur machine nearby\") and whatever you were playing keeps going untouched.\nWhen you do swap on purpose, chat tells you what got turned off, e.g. \"Disabled Out on a Limb to enable Cuff-a-Cur.\"\n\nOut on a Limb\n\n\"Take a break\" works properly again. The module used to go idle after the break ended; now it picks the next round back up like it should.\n\nReload safety\n\nReloading Saucy now switches Out on a Limb and Cuff-a-Cur off. No more reloading mid-test and watching the module fire off a round before you can react.",
+    "Changelog": "Triple Triad\n\nSolver should match TriadBuddy again and stop getting stuck after plugin updates.\nIf TriadBuddy is loaded, Saucy waits ~800ms before placing so you can see its overlay; without TriadBuddy, placement is instant.\nSmoother NPC navigation and prep/deck handling.\n\nOut on a Limb / Cuff-a-Cur\n\"Play X\" no longer stalls when the machine interact gets stuck.\n\"Stop at next double-down\" works again.\nStats \"Per Hour\" now reflects time spent on that minigame, not total plugin uptime.",
     "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
