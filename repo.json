@@ -962,13 +962,13 @@
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "DownloadCount": 69696969,
-    "LastUpdate": 1780927860,
+    "LastUpdate": 1780941019,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
-    "AssemblyVersion": "2.1.0.8",
+    "AssemblyVersion": "2.1.0.10",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "fix various triple triad navigation and quest issues",
+    "Changelog": "hotfix for german clients",
     "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
