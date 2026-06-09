@@ -242,7 +242,7 @@
   },
   {
     "name": "Saucy",
-    "version": "2.1.0.10",
+    "version": "2.1.0.11",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
@@ -309,7 +309,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.1.15",
+    "version": "1.5.1.16",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
