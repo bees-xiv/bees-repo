@@ -137,7 +137,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.78.8",
+    "version": "0.0.78.10",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
@@ -278,7 +278,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.3.3",
+    "version": "1.2.3.4",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
@@ -309,7 +309,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.1.16",
+    "version": "1.5.1.17",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
