@@ -97,7 +97,7 @@
   },
   {
     "name": "GatherBuddyReborn",
-    "version": "7.5.0.13",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"
@@ -137,7 +137,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.78.7",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
