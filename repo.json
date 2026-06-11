@@ -963,13 +963,13 @@
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "DownloadCount": 69696969,
-    "LastUpdate": 1780958400,
+    "LastUpdate": 1781166457,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
-    "AssemblyVersion": "2.1.0.11",
+    "AssemblyVersion": "2.1.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "fix auto accept getting stuck when 3 entries",
+    "Changelog": "fix Triple Triad not using correct cards",
     "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
