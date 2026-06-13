@@ -161,7 +161,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.4.8",
+    "version": "2.5.4.10",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
