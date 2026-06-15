@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.40",
+    "version": "6.0.0.41",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -137,7 +137,7 @@
   },
   {
     "name": "ICE",
-    "version": "0.0.78.16",
+    "version": "0.0.78.18",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
@@ -161,7 +161,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.4.10",
+    "version": "2.5.4.11",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -309,7 +309,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.2.1",
+    "version": "1.5.2.2",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
