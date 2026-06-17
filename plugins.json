@@ -131,13 +131,13 @@
   },
   {
     "name": "Hyperborea",
-    "version": "1.0.0.34",
+    "version": "1.0.0.37",
     "repo": "https://puni.sh/api/repository/kawaii",
     "projectRoot": "./Hyperborea"
   },
   {
     "name": "ICE",
-    "version": "0.0.78.20",
+    "version": "0.0.78.21",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
@@ -260,7 +260,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.2.4",
+    "version": "3.9.2.6",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
