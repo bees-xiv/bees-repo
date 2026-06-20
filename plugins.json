@@ -161,7 +161,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.4.11",
+    "version": "2.5.4.12",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -278,7 +278,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.3.6",
+    "version": "1.2.3.7",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
