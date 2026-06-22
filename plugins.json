@@ -265,12 +265,6 @@
     "projectRoot": "./Splatoon"
   },
   {
-    "name": "TidyChat",
-    "version": "2.3.1.2",
-    "repo": "d17",
-    "projectRoot": "./TidyChat"
-  },
-  {
     "name": "UnloadErrorFuckOff",
     "version": "1.0.0.10",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
