@@ -963,13 +963,13 @@
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "DownloadCount": 69696969,
-    "LastUpdate": 1781774106,
+    "LastUpdate": 1782087980,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
-    "AssemblyVersion": "2.1.1.9",
+    "AssemblyVersion": "2.1.1.11",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "fix some issues with AR integration.\nfix deck rebuilding when rules changed.",
+    "Changelog": "",
     "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
