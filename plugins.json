@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.47",
+    "version": "6.0.0.49",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -303,7 +303,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.2.4",
+    "version": "1.5.2.5",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
