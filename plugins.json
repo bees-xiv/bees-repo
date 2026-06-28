@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.57",
+    "version": "6.0.0.58",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -291,7 +291,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.4.10",
+    "version": "1.0.4.11",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
