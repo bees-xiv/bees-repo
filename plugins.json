@@ -303,7 +303,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.2.10",
+    "version": "1.5.2.12",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
