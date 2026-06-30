@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.60",
+    "version": "6.0.0.61",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -118,7 +118,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "48.0.1.0",
+    "version": "48.1.1.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -260,7 +260,7 @@
   },
   {
     "name": "Splatoon",
-    "version": "3.9.2.8",
+    "version": "3.9.2.10",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Splatoon"
   },
@@ -303,7 +303,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.2.12",
+    "version": "1.5.2.13",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
