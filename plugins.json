@@ -111,7 +111,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.61.0.0",
+    "version": "1.61.1.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -242,7 +242,7 @@
   },
   {
     "name": "Saucy",
-    "version": "2.1.1.11",
+    "version": "2.1.1.12",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
