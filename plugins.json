@@ -271,6 +271,12 @@
     "projectRoot": "./UnloadErrorFuckOff"
   },
   {
+    "name": "VanillaPlus",
+    "version": "0.0.0.0",
+    "repo": "d17",
+    "projectRoot": "./VanillaPlus"
+  },
+  {
     "name": "vnavmesh",
     "version": "1.2.3.8",
     "repo": "https://puni.sh/api/repository/veyn",
