@@ -1080,6 +1080,37 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
   },
   {
+    "Author": "MidoriKami",
+    "Name": "VanillaPlus [Bees]",
+    "Punchline": "A collection of various game modifications",
+    "Description": "This plugin is primarily focused on various UI adjustments, behavior adjustments, and adding new native elements to the game",
+    "Changelog": "small fix",
+    "TestingChangelog": "Disable Title Screen Movie - Reworked how this functions, should no longer prevent DC transfers.\r\n\r\nDuty Interaction Nameplate Offset - New feature to increase the vertical position of portal and shortcut nameplates to make them easier to click on especially when players crowd them.\r\n\r\nInventory Search String - Now clears last search when closing the inventory\r\n\r\nAether Currents on Map - Fixed not working at all\r\n\r\nInventory Search Bars (all kinds) - Fixed not suppressing key input when using Control + F hotkey\r\n\r\nCustom Windows (all kinds) - Fixed keybind config not updating/being respected.",
+    "Tags": [
+      "ui"
+    ],
+    "CategoryTags": null,
+    "InternalName": "VanillaPlusBees",
+    "AssemblyVersion": "1.4.1.16",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/MidoriKami/VanillaPlus",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "DownloadCount": 69696969,
+    "LastUpdate": 1783283061,
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/VanillaPlus.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/VanillaPlus.zip",
+    "LoadPriority": 0,
+    "ImageUrls": null,
+    "IconUrl": null,
+    "AcceptsFeedback": false,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "testing-live"
+  },
+  {
     "Author": "SheepGoMeh",
     "Name": "Visibility [Bees]",
     "Punchline": "Allows you to hide players, pets, chocobos and minions.",
