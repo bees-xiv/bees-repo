@@ -105,15 +105,15 @@
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "DownloadCount": 69696969,
-    "LastUpdate": 1780105635,
+    "LastUpdate": 1783574960,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoRetainer.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoRetainer.zip",
-    "AssemblyVersion": "4.6.1.2",
+    "AssemblyVersion": "4.6.1.10",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Make build deterministic ",
+    "Changelog": "- Fix withdraw bug",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    "IconUrl": "https://puni.sh/api/plugins/icon/24"
   },
   {
     "Name": "BlackBox [Bees]",
