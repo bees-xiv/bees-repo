@@ -49,7 +49,7 @@
   },
   {
     "name": "Brio",
-    "version": "0.8.0.5",
+    "version": "0.8.0.10",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
     "projectRoot": "./Brio"
   },
@@ -79,7 +79,7 @@
   },
   {
     "name": "DailyDuty",
-    "version": "6.0.4.10",
+    "version": "6.0.4.11",
     "repo": "d17",
     "projectRoot": "./DailyDuty"
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.1.16",
+    "version": "1.4.1.17",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
