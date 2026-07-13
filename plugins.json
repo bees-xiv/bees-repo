@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.69",
+    "version": "6.0.0.70",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.1.17",
+    "version": "1.4.1.18",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
@@ -303,13 +303,13 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.15.2.3",
+    "version": "1.15.3.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
   {
     "name": "XivVoices",
-    "version": "1.5.2.14",
+    "version": "1.5.2.15",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
