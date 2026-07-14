@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.70",
+    "version": "6.0.0.72",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -291,7 +291,7 @@
   },
   {
     "name": "visland",
-    "version": "0.0.0.143",
+    "version": "0.0.0.144",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
