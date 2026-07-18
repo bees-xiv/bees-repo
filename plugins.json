@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.321",
+    "version": "0.0.0.326",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.1.26",
+    "version": "7.5.1.27",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -118,7 +118,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "49.1.0.0",
+    "version": "49.2.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -254,7 +254,7 @@
   },
   {
     "name": "SimpleHeels",
-    "version": "0.11.1.7",
+    "version": "0.11.1.8",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
@@ -291,7 +291,7 @@
   },
   {
     "name": "visland",
-    "version": "0.0.0.146",
+    "version": "0.0.0.149",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
