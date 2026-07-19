@@ -49,7 +49,7 @@
   },
   {
     "name": "Brio",
-    "version": "0.8.0.10",
+    "version": "0.8.0.11",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
     "projectRoot": "./Brio"
   },
