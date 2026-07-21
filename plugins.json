@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.5.16",
+    "version": "4.0.5.17",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -161,7 +161,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.4.13",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.1.19",
+    "version": "1.4.1.20",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
