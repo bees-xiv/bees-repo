@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.76",
+    "version": "6.0.0.77",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.1.27",
+    "version": "7.5.1.29",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod"
   },
@@ -79,7 +79,7 @@
   },
   {
     "name": "DailyDuty",
-    "version": "6.0.4.11",
+    "version": "6.0.4.12",
     "repo": "d17",
     "projectRoot": "./DailyDuty"
   },
@@ -278,7 +278,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.3.8",
+    "version": "1.2.3.9",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
@@ -297,7 +297,7 @@
   },
   {
     "name": "WrathCombo",
-    "version": "1.0.4.14",
+    "version": "1.0.4.16",
     "repo": "https://love.puni.sh/ment.json",
     "projectRoot": "./WrathCombo"
   },
