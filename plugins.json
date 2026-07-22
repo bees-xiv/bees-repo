@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.326",
+    "version": "0.0.0.327",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.1.20",
+    "version": "1.4.2.0",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
