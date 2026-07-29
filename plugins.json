@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.82",
+    "version": "6.0.0.83",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -161,7 +161,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.4.13",
+    "version": "2.5.4.15",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -223,7 +223,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.6.1.10",
+    "version": "1.6.1.11",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra",
     "branch": "stable"
