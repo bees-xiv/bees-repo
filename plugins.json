@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.83",
+    "version": "6.0.0.84",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -104,7 +104,7 @@
   },
   {
     "name": "Glamourer",
-    "version": "0.0.0.0",
+    "version": "1.6.1.7",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer",
     "branch": "stable"
@@ -309,7 +309,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.3.0",
+    "version": "1.5.3.2",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
