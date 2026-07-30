@@ -104,7 +104,7 @@
   },
   {
     "name": "Glamourer",
-    "version": "1.6.1.7",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "projectRoot": "./Glamourer",
     "branch": "stable"
