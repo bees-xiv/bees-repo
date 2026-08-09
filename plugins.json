@@ -19,7 +19,7 @@
   },
   {
     "name": "AutoHook",
-    "version": "6.0.0.88",
+    "version": "6.0.0.89",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.2.8",
+    "version": "1.4.2.10",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
