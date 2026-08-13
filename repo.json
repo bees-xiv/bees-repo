@@ -473,7 +473,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks [Bees]",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "49.3.0.0",
+    "AssemblyVersion": "49.4.0.0",
     "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -580,9 +580,9 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Armoire Quick Store\n\n- Added: A config option to ignore items that are part of gear sets.",
+    "Changelog": "Enhanced Experience Bar\n\n- Added: A config option to hide the PvP-Series bar when all meaningful rewards were claimed (default on).\n- Changed: Custom bars (mainly Companion Bar and PvP-Series Bar) no longer show in synced content. I didn't find it particularly helpful not seeing the synced level while doing leveling roulette.",
     "DownloadCount": 69696969,
-    "LastUpdate": 1786455595,
+    "LastUpdate": 1786622353,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip"
   },
@@ -833,7 +833,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/53",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
     ]
@@ -1312,7 +1312,7 @@
     "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png"
   },
   {
-    "Author": "daemitus, kawaii",
+    "Author": "daemitus, croizat",
     "Name": "Yes Already [Bees]",
     "Punchline": "Clicks Yes in various dialogs you've specified.",
     "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
