@@ -7,7 +7,7 @@
   },
   {
     "name": "Artisan",
-    "version": "4.0.5.17",
+    "version": "4.0.5.18",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Artisan"
   },
@@ -25,7 +25,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.6.1.27",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -61,7 +61,7 @@
   },
   {
     "name": "Cammy",
-    "version": "2.1.1.2",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -91,13 +91,13 @@
   },
   {
     "name": "ProjectGagSpeak",
-    "version": "2.1.3.2",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
     "projectRoot": "./ProjectGagSpeak"
   },
   {
     "name": "GatherBuddyReborn",
-    "version": "7.5.5.0",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"
@@ -111,7 +111,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.69.0.0",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -149,7 +149,7 @@
   },
   {
     "name": "LaciSynchroni",
-    "version": "2.0.16.0",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json",
     "projectRoot": "./LaciSynchroni"
   },
@@ -173,7 +173,7 @@
   },
   {
     "name": "Loci",
-    "version": "0.1.3.6",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/CordeliaMist/Loci/main/repo.json",
     "projectRoot": "./Loci"
   },
@@ -186,13 +186,13 @@
   },
   {
     "name": "NecroLens",
-    "version": "1.0.8.12",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/jukka",
     "projectRoot": "./NecroLens"
   },
   {
     "name": "NoClippy",
-    "version": "0.5.0.24",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "projectRoot": "."
   },
@@ -223,7 +223,7 @@
   },
   {
     "name": "Penumbra",
-    "version": "1.6.1.12",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "projectRoot": "./Penumbra",
     "branch": "stable"
@@ -242,13 +242,13 @@
   },
   {
     "name": "Saucy",
-    "version": "2.1.1.15",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
   {
     "name": "SilenceNoMore",
-    "version": "1.4.0.1",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/glyceri",
     "projectRoot": "./SilenceNoMore"
   },
@@ -266,13 +266,13 @@
   },
   {
     "name": "UnloadErrorFuckOff",
-    "version": "1.0.0.10",
+    "version": "0.0.0.0",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./UnloadErrorFuckOff"
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.2.11",
+    "version": "0.0.0.0",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
@@ -303,7 +303,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.15.3.0",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
