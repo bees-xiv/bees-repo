@@ -111,7 +111,7 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.69.0.0",
+    "version": "1.70.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
@@ -143,7 +143,7 @@
   },
   {
     "name": "IINACT",
-    "version": "2.10.3.5",
+    "version": "2.10.3.6",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
@@ -242,7 +242,7 @@
   },
   {
     "name": "Saucy",
-    "version": "2.1.1.15",
+    "version": "2.1.1.16",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
