@@ -149,7 +149,7 @@
   },
   {
     "name": "LaciSynchroni",
-    "version": "2.0.16.0",
+    "version": "2.0.17.0",
     "repo": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json",
     "projectRoot": "./LaciSynchroni"
   },
@@ -242,7 +242,7 @@
   },
   {
     "name": "Saucy",
-    "version": "2.1.1.16",
+    "version": "2.1.1.17",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.2.11",
+    "version": "1.4.2.13",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
