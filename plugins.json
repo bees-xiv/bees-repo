@@ -254,7 +254,7 @@
   },
   {
     "name": "SimpleHeels",
-    "version": "0.11.1.8",
+    "version": "0.11.1.9",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.2.13",
+    "version": "1.4.3.2",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
