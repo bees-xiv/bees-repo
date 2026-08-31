@@ -91,7 +91,7 @@
   },
   {
     "name": "ProjectGagSpeak",
-    "version": "2.2.0.5",
+    "version": "2.2.0.6",
     "repo": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
     "projectRoot": "./ProjectGagSpeak"
   },
@@ -272,7 +272,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.3.10",
+    "version": "1.4.3.11",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
