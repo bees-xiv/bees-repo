@@ -91,13 +91,13 @@
   },
   {
     "name": "ProjectGagSpeak",
-    "version": "2.2.1.0",
+    "version": "2.2.1.1",
     "repo": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
     "projectRoot": "./ProjectGagSpeak"
   },
   {
     "name": "GatherBuddyReborn",
-    "version": "7.5.5.0",
+    "version": "7.5.5.1",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"
