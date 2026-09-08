@@ -111,14 +111,14 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.73.0.0",
+    "version": "1.74.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
   },
   {
     "name": "HaselTweaks",
-    "version": "50.0.0.0",
+    "version": "50.0.1.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -143,7 +143,7 @@
   },
   {
     "name": "IINACT",
-    "version": "2.10.3.6",
+    "version": "2.10.3.7",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
