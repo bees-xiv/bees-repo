@@ -149,7 +149,7 @@
   },
   {
     "name": "LaciSynchroni",
-    "version": "2.0.17.0",
+    "version": "2.0.18.0",
     "repo": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json",
     "projectRoot": "./LaciSynchroni"
   },
@@ -303,7 +303,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.15.4.0",
+    "version": "1.15.4.1",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
