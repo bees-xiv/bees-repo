@@ -74,7 +74,7 @@
   },
   {
     "name": "CustomizePlus",
-    "version": "2.2.1.2",
+    "version": "2.2.1.3",
     "repo": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/refs/heads/main/repo.json",
     "projectRoot": "./CustomizePlus"
   },
