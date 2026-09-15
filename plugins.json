@@ -92,7 +92,7 @@
   },
   {
     "name": "ProjectGagSpeak",
-    "version": "2.2.1.1",
+    "version": "2.2.2.1",
     "repo": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
     "projectRoot": "./ProjectGagSpeak"
   },
