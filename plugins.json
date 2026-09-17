@@ -112,14 +112,14 @@
   },
   {
     "name": "HaselDebug",
-    "version": "1.74.0.0",
+    "version": "1.75.0.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselDebug",
     "noVersionFlags": true
   },
   {
     "name": "HaselTweaks",
-    "version": "50.0.1.0",
+    "version": "50.0.2.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -144,7 +144,7 @@
   },
   {
     "name": "IINACT",
-    "version": "2.10.3.7",
+    "version": "2.10.3.8",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
@@ -304,7 +304,7 @@
   },
   {
     "name": "YesAlready",
-    "version": "1.15.5.0",
+    "version": "1.15.5.1",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./YesAlready"
   },
