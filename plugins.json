@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.340",
+    "version": "0.0.0.343",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -310,7 +310,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.5.3.7",
+    "version": "1.6.0.0",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
