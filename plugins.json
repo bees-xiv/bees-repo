@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.350",
+    "version": "0.0.0.352",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
