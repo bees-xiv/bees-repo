@@ -13,13 +13,13 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.365",
+    "version": "0.0.0.366",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
   {
     "name": "AutoHook",
-    "version": "6.0.2.0",
+    "version": "6.0.2.1",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
