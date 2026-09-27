@@ -255,7 +255,7 @@
   },
   {
     "name": "SimpleHeels",
-    "version": "0.11.1.11",
+    "version": "0.11.1.12",
     "repo": "https://repo.caraxian.com",
     "projectRoot": "."
   },
@@ -310,7 +310,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.6.0.1",
+    "version": "1.6.0.2",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
