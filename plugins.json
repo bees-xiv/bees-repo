@@ -13,13 +13,13 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.368",
+    "version": "0.0.0.372",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
   {
     "name": "AutoHook",
-    "version": "6.0.2.2",
+    "version": "6.0.2.3",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -138,7 +138,7 @@
   },
   {
     "name": "ICE",
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
@@ -273,13 +273,13 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.5.0",
+    "version": "1.4.5.1",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.3.14",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
