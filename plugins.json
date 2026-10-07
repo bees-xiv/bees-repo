@@ -210,11 +210,11 @@
     "projectRoot": "./Orbwalker"
   },
   {
-    "name": "PalacePal",
-    "version": "4.16.0.0",
+    "name": "Palantir",
+    "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Pal.Client",
-    "csprojName": "Pal.Client"
+    "projectRoot": "./Palantir.Client",
+    "csprojName": "Palantir.Client"
   },
   {
     "name": "PandorasBox",
