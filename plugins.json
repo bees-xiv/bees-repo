@@ -213,8 +213,7 @@
     "name": "Palantir",
     "version": "0.0.0.0",
     "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Palantir.Client",
-    "csprojName": "Palantir.Client"
+    "projectRoot": "./Palantir.Client"
   },
   {
     "name": "PandorasBox",
