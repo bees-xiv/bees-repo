@@ -138,7 +138,7 @@
   },
   {
     "name": "ICE",
-    "version": "1.0.0.3",
+    "version": "1.0.0.4",
     "repo": "https://puni.sh/api/repository/ice",
     "projectRoot": "./ICE"
   },
@@ -211,7 +211,7 @@
   },
   {
     "name": "Palantir",
-    "version": "0.0.0.0",
+    "version": "0.0.0.5",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Palantir.Client"
   },
