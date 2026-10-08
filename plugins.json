@@ -220,7 +220,7 @@
   },
   {
     "name": "Saucy",
-    "version": "2.1.2.4",
+    "version": "2.1.2.5",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
