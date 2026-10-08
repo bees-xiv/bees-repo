@@ -36,12 +36,6 @@
     "projectRoot": "./BDTHPlugin"
   },
   {
-    "name": "BlackBox",
-    "version": "1.5.0.0",
-    "repo": "bees-build",
-    "projectRoot": "."
-  },
-  {
     "name": "BossMod",
     "version": "7.5.6.9",
     "repo": "https://puni.sh/api/repository/veyn",
@@ -55,12 +49,6 @@
     "version": "0.8.0.12",
     "repo": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
     "projectRoot": "./Brio"
-  },
-  {
-    "name": "CactusWatcher",
-    "version": "1.5.0.0",
-    "repo": "bees-build",
-    "projectRoot": "."
   },
   {
     "name": "Cammy",
@@ -91,12 +79,6 @@
     "version": "7.5.1.0",
     "repo": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
     "projectRoot": "./DisPlacePlugin"
-  },
-  {
-    "name": "ProjectGagSpeak",
-    "version": "2.2.2.1",
-    "repo": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
-    "projectRoot": "./ProjectGagSpeak"
   },
   {
     "name": "GatherBuddyReborn",
@@ -173,12 +155,6 @@
     "version": "0.4.4.0",
     "repo": "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
     "projectRoot": "./LMeter"
-  },
-  {
-    "name": "Loci",
-    "version": "0.1.3.12",
-    "repo": "https://raw.githubusercontent.com/CordeliaMist/Loci/main/repo.json",
-    "projectRoot": "./Loci"
   },
   {
     "name": "Marketbuddy",
@@ -261,12 +237,6 @@
     "projectRoot": "."
   },
   {
-    "name": "Splatoon",
-    "version": "3.9.2.28",
-    "repo": "https://puni.sh/api/plugins",
-    "projectRoot": "./Splatoon"
-  },
-  {
     "name": "UnloadErrorFuckOff",
     "version": "1.0.0.10",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
@@ -296,12 +266,6 @@
     "version": "0.0.0.151",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
-  },
-  {
-    "name": "WrathCombo",
-    "version": "1.0.4.26",
-    "repo": "https://love.puni.sh/ment.json",
-    "projectRoot": "./WrathCombo"
   },
   {
     "name": "YesAlready",
