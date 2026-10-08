@@ -213,7 +213,7 @@
   },
   {
     "name": "Palantir",
-    "version": "0.0.0.5",
+    "version": "0.0.0.6",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Palantir.Client"
   },
