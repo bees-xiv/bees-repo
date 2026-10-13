@@ -128,7 +128,7 @@
   },
   {
     "name": "IINACT",
-    "version": "2.10.3.8",
+    "version": "2.10.3.10",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
@@ -146,7 +146,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.5.4.23",
+    "version": "2.6.0.0",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -275,7 +275,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.6.0.2",
+    "version": "1.6.0.3",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
