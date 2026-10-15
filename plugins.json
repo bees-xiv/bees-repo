@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.383",
+    "version": "0.0.0.384",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -189,7 +189,7 @@
   },
   {
     "name": "Palantir",
-    "version": "0.0.0.6",
+    "version": "0.0.0.8",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Palantir.Client"
   },
