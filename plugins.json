@@ -13,7 +13,7 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.384",
+    "version": "0.0.0.387",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
@@ -37,7 +37,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.7.0",
+    "version": "7.5.7.2",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod",
     "branch": "testing",
@@ -244,7 +244,7 @@
   },
   {
     "name": "VanillaPlus",
-    "version": "1.4.5.9",
+    "version": "1.4.5.10",
     "repo": "d17",
     "projectRoot": "./VanillaPlus"
   },
@@ -257,7 +257,7 @@
   },
   {
     "name": "Visibility",
-    "version": "1.1.9.5",
+    "version": "1.1.9.6",
     "repo": "d17",
     "projectRoot": "./Visibility"
   },
