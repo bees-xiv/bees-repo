@@ -128,7 +128,7 @@
   },
   {
     "name": "IINACT",
-    "version": "2.10.3.10",
+    "version": "2.10.3.11",
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "projectRoot": "./IINACT"
   },
