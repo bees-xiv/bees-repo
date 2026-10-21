@@ -37,7 +37,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.7.3",
+    "version": "7.5.7.4",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod",
     "branch": "testing",
