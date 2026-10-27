@@ -37,7 +37,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.7.12",
+    "version": "7.5.7.14",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod",
     "branch": "testing",
@@ -189,7 +189,7 @@
   },
   {
     "name": "Palantir",
-    "version": "0.0.0.8",
+    "version": "0.0.0.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Palantir.Client"
   },
