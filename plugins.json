@@ -13,13 +13,13 @@
   },
   {
     "name": "AutoDuty",
-    "version": "0.0.0.394",
+    "version": "0.0.0.395",
     "repo": "https://puni.sh/api/repository/erdelf",
     "projectRoot": "./AutoDuty"
   },
   {
     "name": "AutoHook",
-    "version": "6.0.2.12",
+    "version": "6.0.3.0",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoHook"
   },
@@ -103,7 +103,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "50.0.2.0",
+    "version": "50.0.3.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -146,7 +146,7 @@
   },
   {
     "name": "Lifestream",
-    "version": "2.6.0.8",
+    "version": "2.6.0.12",
     "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "projectRoot": "./Lifestream"
   },
@@ -220,7 +220,7 @@
   },
   {
     "name": "Saucy",
-    "version": "2.1.2.8",
+    "version": "2.1.2.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./Saucy"
   },
@@ -275,7 +275,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.6.0.3",
+    "version": "1.6.0.4",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
