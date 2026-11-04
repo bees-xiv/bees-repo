@@ -25,7 +25,7 @@
   },
   {
     "name": "AutoRetainer",
-    "version": "4.6.2.14",
+    "version": "4.6.2.18",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./AutoRetainer"
   },
@@ -250,7 +250,7 @@
   },
   {
     "name": "vnavmesh",
-    "version": "1.2.3.14",
+    "version": "1.2.3.15",
     "repo": "https://puni.sh/api/repository/veyn",
     "git": "https://github.com/awgil/ffxiv_navmesh",
     "projectRoot": "./vnavmesh"
@@ -263,7 +263,7 @@
   },
   {
     "name": "visland",
-    "version": "0.0.0.151",
+    "version": "0.0.0.152",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./ffxiv_visland"
   },
