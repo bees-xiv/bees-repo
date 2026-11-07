@@ -864,13 +864,13 @@
     "InternalName": "Palantir",
     "RepoUrl": "https://github.com/PunishXIV/Palantir",
     "DownloadCount": 69696969,
-    "LastUpdate": 1793134310,
+    "LastUpdate": 1794057617,
     "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Palantir.zip",
     "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Palantir.zip",
-    "AssemblyVersion": "0.0.0.9",
+    "AssemblyVersion": "0.0.0.10",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- if an intuition is currently active/was active on a floor, will set a flag to make the intuitions not show up unless it's the one that's actually found",
+    "Changelog": "IPC for bossmod",
     "IconUrl": "https://puni.sh/api/plugins/icon/169"
   },
   {
