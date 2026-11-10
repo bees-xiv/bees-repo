@@ -164,6 +164,12 @@
     "git": "https://github.com/PunishXIV/Marketbuddy"
   },
   {
+    "name": "Meddle.Plugin",
+    "version": "0.0.0.0",
+    "repo": "https://raw.githubusercontent.com/PassiveModding/Meddle/main/repo.json",
+    "projectRoot": "./Meddle/Meddle.Plugin"
+  },
+  {
     "name": "NecroLens",
     "version": "1.0.8.12",
     "repo": "https://puni.sh/api/repository/jukka",
