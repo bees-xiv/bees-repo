@@ -103,7 +103,7 @@
   },
   {
     "name": "HaselTweaks",
-    "version": "50.0.3.0",
+    "version": "50.0.4.0",
     "repo": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
     "projectRoot": "./HaselTweaks",
     "noVersionFlags": true
@@ -165,7 +165,7 @@
   },
   {
     "name": "Meddle.Plugin",
-    "version": "0.1.57.0",
+    "version": "0.1.58.0",
     "repo": "https://raw.githubusercontent.com/PassiveModding/Meddle/main/repo.json",
     "projectRoot": "./Meddle/Meddle.Plugin"
   },
