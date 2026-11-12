@@ -37,7 +37,7 @@
   },
   {
     "name": "BossMod",
-    "version": "7.5.8.0",
+    "version": "7.5.8.1",
     "repo": "https://puni.sh/api/repository/veyn",
     "projectRoot": "./BossMod",
     "branch": "testing",
@@ -165,7 +165,7 @@
   },
   {
     "name": "Meddle.Plugin",
-    "version": "0.1.58.0",
+    "version": "0.1.58.1",
     "repo": "https://raw.githubusercontent.com/PassiveModding/Meddle/main/repo.json",
     "projectRoot": "./Meddle/Meddle.Plugin"
   },
