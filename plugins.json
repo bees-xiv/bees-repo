@@ -82,7 +82,7 @@
   },
   {
     "name": "GatherBuddyReborn",
-    "version": "7.5.8.7",
+    "version": "7.5.8.8",
     "repo": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "projectRoot": "./GatherBuddy",
     "csprojName": "GatherBuddy"
@@ -201,7 +201,7 @@
   },
   {
     "name": "PandorasBox",
-    "version": "1.6.4.8",
+    "version": "1.6.4.9",
     "repo": "https://puni.sh/api/plugins",
     "projectRoot": "./PandorasBox"
   },
@@ -281,7 +281,7 @@
   },
   {
     "name": "XivVoices",
-    "version": "1.6.0.5",
+    "version": "1.6.0.6",
     "repo": "https://xivv.keifufu.dev/repo",
     "projectRoot": "./XivVoices"
   }
